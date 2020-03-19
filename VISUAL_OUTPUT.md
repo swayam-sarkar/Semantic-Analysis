@@ -7,11 +7,11 @@ Gephi was used to establish links between employees & companies.
 Employee nodes set in red & companies in green. Node size set by number of connections. Fruchterman Reingold layout.
 
 ### Employee -> Company
-![](design/Emp_Comp.JPG)
+![](design/Empl_Comp.JPG)
 Single employee connected to multiple companies. Suggests possible board-interlocking or presence of sister companies.
 
 ### Company -> Employee
-![](design/Comp_Emp.JPG)
+![](design/Comp_Empl.JPG)
 Single company connected to multiple employees.
 
 ### Entire cluster
