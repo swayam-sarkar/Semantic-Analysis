@@ -6,12 +6,22 @@
 3. Visualisation by cluster according to multiple criteria
 4. Being able to query this universe of companies to make knowledge discovery  possible (relationship, similarities, …)
 
-## Data extraction
+## Project High Level Design
+![](design/high_level_design_flow.JPG)
+
+## Data Extraction & Preparation Design
+![](design/data_extract_prep.JPG)
+
+## Data Extraction
 Python Jupyter notebooks used for the data extraction segment
 
-## Data preparation
+## Data Preparation
 Data prepared for visualization using MS Excel
 
 ## Visualization 
 1. Gephi used for network analysis of companies & employees
 2. Tableau used for analysis of corporate objects
+
+
+
+
