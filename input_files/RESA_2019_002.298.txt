@@ -1,0 +1,2495 @@
+Recueil Electronique des Sociétés et Associations
+
+Numéro RCS : 8230533
+
+Référence de publication : RESA_2019_002.298
+Publié au RESA N° RESA_2019_002 le 02/01/2019
+
+Déposé le 02/01/2019
+
+TAN Lux S.à r.l.
+
+Société à responsabilité limitée
+L-8308 Capellen, 75, Parc d’Activités
+
+ 
+
+NUMERO 115.652
+
+CONSTITUTION DE SOCIETE DU 18 DECEMBRE 2018
+
+In the year two thousand and eighteen, on the eighteenth of December.
+
+Before Us Me Jean SECKLER, notary residing in Junglinster, (Grand-
+Duchy of Luxembourg), undersigned.
+
+THERE APPEARED
+
+1. TAN Holdings s.r.l., a company incorporated and existing under the
+laws of Italy, having its registered ofﬁce at Viale Majno 26, (20129) Milano,
+Italy and with VAT and Registration Number 07530270961, duly represented
+by its Chief Executive Ofﬁcer Filippo Giovannini, and
+
+2. TAN 2.0 LP, SCSp, a special limited partnership (société en
+commandite spéciale), governed by the laws of the Grand Duchy of Luxembourg
+(the “Partnership”), hereby represented by its general partner, TAN ICGP S.à
+r.1., a Luxembourg private liability company (société à responsabilité limitée),
+incorporated and existing under the laws of the Grand Duchy of Luxembourg
+with registered ofﬁce at L-8308 Capellen, 75, Parc d’Activités, Luxembourg and
+registered with the Luxembourg Register of Commerce and Companies under
+number B230118 (the “General Partner”) acting in its capacity as the general
+partner of the Partnership,
+
+(the “Appearing Parties”),
+
+both here represented by Mr. Henri DA CRUZ, employee, residing
+professionally in J unglinster, Grand Duchy of Luxembourg (the
+“Representative”) by virtue of a power of attorney given under private seal.
+
+Such powers of attorney, after have been signed ne varietur by the
+Representative and the undersigned notary, will remain annexed hereto for the
+purpose of registration.
+
+The Appearing Parties, represented as described above, have requested the
+undersigned notary to draw up the following articles of association of a private
+limited liability company (société à responsabilité limitée) which is hereby
+incorporated:
+
+“ARTICLES OF ASSOCIATION
+DEFINITIONS
+
+"Articles" means the articles of association of the Company as amended
+
+1
+
+
+from time to time;
+
+"Available Amount" shall mean the total amount of net proﬁts of the
+Company (including carried forward proﬁts) increased by (i) any freely
+distributable reserves (including share premium and 115 account) and (ii) as the
+case may be, by the amount of the capital reduction and legal reserve reduction
+relating to the Classes of Shares to be cancelled but reduced by (i) any losses
+(included carried forward losses) expressed as a positive amount, (ii) any sums
+to be placed into reserve(s) pursuant to the requirements of Law or of the
+Articles, each time as set out in the relevant Interim Accounts (without for the
+avoidance of doubt, any double counting), (iii) any dividends to which is entitled
+the holder(s) of the Class A Shares pursuant to the Articles and (iv) any Proﬁt
+Entitlement so that:
+
+AA = (NP + P+ CR) — (L + LR+OD+PE)
+
+Whereby:
+
+AA = Available Amount.
+
+NP = net proﬁts (including carried forward proﬁts).
+
+P = any freely distributable reserves.
+
+CR = the amount of the capital reduction and legal reserve reduction
+relating to the Classes of Shares to be cancelled.
+
+L = losses (including carried forward losses) expressed as a positive
+amount.
+
+LR = any sums to be placed into reserve(s) pursuant to the requirements
+of Law or of the Articles.
+
+OD = any dividends to which is entitled the holder(s) of the Class A Shares
+pursuant to the Articles.
+
+PE = Proﬁt Entitlement;
+
+"Available Liquidities” shall mean (i) all the cash held by the Company
+(except for cash on term deposits with a remaining maturity exceeding six (6)
+months), (ii) any readily marketable money market instruments, bonds and notes
+and any receivable which in the opinion of the Board will be paid to the
+Company in the short term less any indebtedness or other debt of the Company
+payable in less than six (6) months determined on the basis of the Interim
+Accounts relating to the relevant Class Period and (iii) any assets such as shares,
+stock or securities of other kind held by the Company;
+
+"Board" has the meaning given to it in article 3.2 of the Articles;
+
+"Bureau" has the meaning given to it in article 16.5 of the Articles;
+
+"Cancellation Value Per Share" shall be calculated by dividing the Total
+Cancellation Amount to be applied to the Class of Shares to be repurchased and
+cancelled by the number of Shares in issue in such Class of Shares except for the
+
+Class B and C Shares where it is calculated as set forth in these Articles;
+
+
+"Chair of the Board" has the meaning given to it in article 6.2 of the
+Articles;
+
+"Chair of the General Meeting" has the meaning given to it in article
+16.4 of the Articles;
+
+“Class B Period” has the meaning given to it in article 6.12 of the Articles;
+
+“Class C Period” has the meaning given to it in article 6.13 of the Articles;
+
+"Classes of Shares" or "Class of Shares" have the meaning given to them
+in article 6.1 of the Articles;
+
+“Class A Shares” has the meaning given to it in article 6.1 of the Articles;
+
+“Class B Shares” has the meaning given to it in article 6.1 of the Articles;
+
+“Class C Shares” has the meaning given to it in article 6.1 of the Articles;
+
+"Company" has the meaning given to it in article 1.1 of the Articles;
+
+"Conflicted Representative" has the meaning given to it in article 10.2 of
+the Articles;
+
+"General Meetings" means the general meetings of the Shareholder(s) of
+the Company;
+
+"Interim Accounts" means the interim accounts of the Company as at the
+relevant Interim Account Date;
+
+"Interim Account Date" means the date no earlier than eight (8) days
+before the date of the repurchase and cancellation of a Class of Shares;
+
+"Law" has the meaning given to it in article 1.1 of the Articles;
+
+"Legal Reserve" has the meaning given to it in article 20.1 of the Articles;
+
+"Manager(s)" has the meaning given to it in article 5.1 of the Articles;
+
+"Person" means an individual, corporation, partnership, limited liability
+company, association, trust or other entity or organization, including a
+government or political subdivision or an agency or instrumentality thereof;
+
+"Proﬁt Entitlement” shall mean the dividend entitlements pursuant to the
+Articles of the Classes of Shares not redeemed and cancelled;
+
+"Share(s)" means any outstanding share issued by the Company, from
+time to time, in accordance with the terms of the Articles;
+
+"Shareholders" or "Shareholder" means any Person holding Company's
+Shares or to whom such Shares are transferred or issued from time to time
+(excluding the Company) in accordance with the terms of the Articles.
+
+“Shareholders’ Resolution(s)” has the meaning given to it in article 13.1
+of the Articles;
+
+“Total Cancellation Amount” shall mean an amount not exceeding the
+Available Amount relating to the relevant Class Period provided that such
+Cancellation Amount cannot be higher than the Available Liquidities relating to
+
+the relevant Class Period.
+FORM, NAME, REGISTERED OFFICE, OBJECT, DURATION
+
+
+1. Form
+
+1.1 There exists a company in the form of a private limited liability
+company (société à responsabilité limitée) (the "Company") which shall be
+governed by the laws of the Grand Duchy of Luxembourg, notably the
+Luxembourg law of 10 August 1915 on commercial companies, as amended (the
+"Law”) and the present articles of association (the "Articles").
+
+1.2 The Company may have one sole shareholder or several
+shareholders (the "Shareholder(s)"), provided that the number of Shareholders
+does not exceed one hundred (100).
+
+1.3 In case the number of Shareholders (for any reason whatsoever)
+increases to over one hundred (100), the Company must be converted to another
+form of company within one (1) year from when such number of Shareholders
+was exceeded. In the event the Company has not been converted within this
+
+period of one (1) year, competent authorities may request the liquidation of the
+
+Company.
+2. Company name
+2.1 The Company exists under the name "TAN Lux S.à r.l.".
+3. Registered ofﬁce
+3.1 The Company has its registered ofﬁce in Capellen.
+3.2 The sole manager or, as the case may be, the board of managers
+
+of the Company (the "Board") is authorised to transfer the Company's registered
+ofﬁce within the municipality of the Company's registered ofﬁce or to any other
+municipality in the Grand Duchy of Luxembourg and amend these Articles
+accordingly.
+
+3.3 Branches or other ofﬁces may be established either in the Grand
+Duchy of Luxembourg or abroad by decision of the Board.
+
+3.4 In the event that, in the opinion of the Board, extraordinary
+political, economic or social developments occur or are imminent which would
+interfere with the normal activities of the Company at its registered ofﬁce or with
+the ease of communications with the said ofﬁce or between the said ofﬁce and
+persons abroad, it may temporarily transfer the registered ofﬁce abroad, until the
+end of these abnormal circumstances. Such a temporary measures will have no
+effect on the nationality of the Company which, notwithstanding the temporary
+transfer of the registered ofﬁce, will remain a company governed by the laws of
+the Grand Duchy of Luxembourg.
+
+4. Corporate Object
+
+4.1 The corporate object of the Company is the direct and indirect
+acquisition and holding of stakes, in any form whatsoever, in Luxembourg
+and/or foreign undertakings, as well as the administration, development and
+
+management of these stakeholdings.
+
+
+This includes without limitation the investment in, acquisition and disposal
+of, grant or issuance, where applicable, (without a public offering with respect
+to the issue by the Company of equity instruments and / or convertible debt
+instruments) of preferred equity certiﬁcates, loans, bonds, notes, debentures and
+other debt instruments (convertible or not), shares, warrants and other equity
+instruments or rights, including without limitation, shares of capital stock,
+limited partnership interests, limited-liability company interests, preferred stock,
+securities and swaps, and any combination of the foregoing, in each case whether
+readily marketable or not, as well as obligations (including without limitation
+synthetic securities obligations) in any type of company, entity or other legal
+person.
+
+4.2 The Company may also use its funds to invest in real estate,
+intellectual property rights or any other movable or immovable asset in any form
+or of any kind.
+
+4.3 The Company may grant pledges, guarantees, liens, mortgages
+and any other form of security as well as any form of indemnity, to Luxembourg
+or foreign entities, in respect of its own obligations and debts.
+
+4.4 The Company may also provide assistance in any form (including
+without limitation the granting of advances, loans, money deposits and credit as
+well as the provision of pledges, guarantees, liens, mortgages and any other form
+of security) to the Company's subsidiaries. On a more occasional basis, the
+Company may provide the same type of assistance to undertakings that form part
+of the same group to which the Company belongs or to third parties, provided
+that doing so is in the Company's interest and does not trigger any license
+requirements.
+
+4.5 In general, the Company may carry out any commercial,
+industrial or ﬁnancial transactions and engage in those other activities as it
+deems necessary, advisable, convenient, incidental to, or not inconsistent with,
+the accomplishment and development of its corporate purpose.
+
+4.6 Notwithstanding the foregoing, the Company shall not enter into
+any transaction that would cause it to be engaged in a regulated activity or one
+
+that requires the Company to have a license.
+
+5. Duration
+5.1 The Company is established for an unlimited period of time.
+5.2 The Company may be dissolved, at any time, by a resolution
+
+adopted, as the case may be, by the sole Shareholder or by the general meeting
+of Shareholders (the "General Meeting") representing three quarters (3/4) of the
+Company’s share capital.
+
+5.3 Death, suspension of civil rights, dissolution, bankruptcy or
+
+insolvency or any other similar event regarding any of the Shareholders shall not
+
+
+cause the dissolution of the Company.
+SHARE CAPITAL, TRANSFER OF SHARES
+
+6. Share capital
+
+6.1 The Company's corporate capital is ﬁxed at four hundred and
+sixty thousand Euros (EUR 460,000.-) represented by the following classes of
+shares (the "Classes of Shares" or "Class of Shares" if considered individually
+and together being hereafter referred to as the “Shares”):
+
+- sixty thousand (60,000) class A shares with a nominal value of one Euro
+(EUR l.-) each (the “Class A Shares”), all subscribed and fully paid up;
+
+- three hundred thousand (3 00,000) class B shares with a nominal value of
+one Euro (EUR l.-) each (the “Class B Shares”), all subscribed and fully paid
+up;
+
+- one hundred thousand (100,000) class C shares with a nominal value of
+one Euro (EUR l.-) each (the “Class C Shares”) all subscribed and fully paid
+
+up;
+
+6.2 The authorised share capital is set at ﬁve hundred and sixty
+thousand Euros (EUR 560,000), to be divided into either Class B Shares or Class
+C Shares with a par value of one Euro (EUR l.-) each, with the same rights as
+the existing Class B Shares or Class C Shares, as applicable. During a period
+ending ﬁve (5) years after the date of incorporation of the Company,
+authorisation is given to increase on one or more occasions the subscribed share
+capital and issue new Class B Shares or Class C Shares within the limits of the
+authorised capital to such persons and on such terms as the Board deems ﬁt, in
+a maximum proportion of % of Class C Shares to % of Class B Shares at each
+issuance of Shares in accordance with this article 6.2. The Class A Shares’
+shareholder waives his/her/its rights to subscribe to Shares to be issued in
+accordance with this article 6.2.
+
+6.3 The authorised capital of the Company may be increased or
+reduced by a resolution adopted, as the case may be, by the sole Shareholder or
+by the General Meeting representing three quarters (3/4) of the Company’s share
+capital.
+
+6.4 The above authorisations may be renewed through a resolution
+of, as the case may be, the sole Shareholder or the General Meeting adopted in
+accordance with these Articles and subject to the provisions of the Law, each
+time for a period not exceeding ﬁve (5) years.
+
+6.5 In addition to the share capital, the Shareholder(s) will set up a
+share premium account. Each Class B Share and Class C Share, must be
+subscribed and fully paid up together with the payment of a compulsory share
+premium of nine Euros (EUR 9.-) per share.
+
+Any share premium may be used by the Company to redeem the
+
+
+Company's own Shares from Shareholders, to offset any net realized losses, to
+make distributions to Shareholders or to allocate funds to the legal reserve.
+
+6.6 In addition to the share capital and share premium account, the
+Company may maintain a capital contribution account 115 (compté 115 “Apport
+en capitaux propres non rémunéré par des titres ”) on which the Company shall
+allocate any capital contributions to the Company which will be made without
+issue by the Company of any new Shares in consideration for the relevant
+contribution.
+
+6.7 The Company may acquire its own Shares. The Board may
+decide to cancel the redeemed Shares and decide upon the capital reduction
+corresponding to the number of redeemed Shares, but not falling below the
+statutory minimum share capital, to be evidenced by a notarial deed. This
+notarial deed needs to be established within the month of the cancellation and
+the decision upon capital reduction by the Board.
+
+6.8 Subject to always complying with applicable Law, the share
+capital of the Company may from time to time be reduced by a resolution of the
+General Meeting adopted in accordance with the provisions set out for an
+amendment of these Articles by way of the redemption and cancellation of an
+entire Class of Shares through the redemption and cancellation of all the Shares
+in issue in such a class, provided that the order of redemption set out below and
+the respective redemption period set out under articles 6.11, 6.12 and 6.13 (as
+appropriate) being respected.
+
+6.9 The share capital of the Company may be reduced through the
+repurchase and cancellation of one (1) or more entire Classes of Shares provided
+however that the Company may at no time purchase and cancel the Class A
+Shares.
+
+6.10 Class A Shares and Class B Shares carry an obligation, for their
+Shareholders and upon their subscription, to vote in favor of a Shareholders’
+Resolution regarding the conversion of Class C Shares into Class A Shares or
+Class B Shares as the case may be, pursuant to articles 1.1, 1.2 and 1.4 below.
+
+6.11 The share capital of the Company may be reduced through the
+repurchase and cancellation of one (1) entire Class of Shares per year provided
+however that the Company may at no time purchase and cancel the Class A
+Shares. In the case of repurchases and cancellations of Classes of Shares such
+cancellations and repurchases of Shares shall be made in the following order:
+
+. Class C Shares; and
+
+. Class B Shares.
+
+6.12 In the event of a reduction of share capital through the repurchase
+and the cancellation of the Class B Shares, subject to the applicable provisions
+
+of the Law, such Class of Shares entitles the holders thereof per each Class B
+
+
+Share to an amount equal to the result of the following formula:
+
+(€10 * 1.08 Mm * 1.12N/12) _ (z Dk * 1.08Qk/12 * 1.12 WW)
+
+Where
+
+M = equals the total number of months passed in the ﬁrst four (4) years
+since the emission of each single Class B Share.
+
+N = equals the number of months passed in the ﬁfth (5) year since the
+emission of each single Class B Share.
+
+k = equals a number from 1 to n, which refers in chronological order to the
+dividends distributed (if any) to each single Class B Share since its emission.
+(e. g. if a share was subject to 3 dividend distributions, then k will assume three
+values (i.e. 1,2,3) referring to each distribution in chronological order).
+
+Dk= equals the value of dividend number k, distributed to each single Class
+B Share.
+
+Qk= equals the total number of months passed from the date of the
+distribution of Dividend k to the earliest of the two following events i) the end
+of the fourth year since the emission of each single Class B Share, or ii) ii) the
+cancellation of the Class B Shares.
+
+Wk= equals the total number of months (if any) passed only in the ﬁfth (5)
+year (i.e. the ﬁfth (5) year since the emission of each single Class B Share) from
+the date of the distribution of Dk to the earliest of the two following events i) the
+end of the ﬁfth (5) year since the emission of each single Class B Share, or ii)
+the cancellation of the Class B Shares.
+
+The general redemption period for Class B Shares shall be from the date
+of their subscription up to (including) the ﬁfth (5) anniversary of the subscription
+of the ﬁrst Class B Share (the “Class B Period”), it being understood that
+(subject to applicable provisions of the law) the Company will have to
+compulsory redeem all Class B Shares within the end of the Class B Period.
+
+6.13 In the event of a reduction of share capital through the repurchase
+and the cancellation of the Class C Shares, subject to the applicable provisions
+of the Law, such Class C Shares entitles the holders thereof per each Class C
+Share to an amount equal to the result of the following formula:
+
+(€10 * 1.08 W * 1.125/12)—(2 DJ * 1.08UJ/12 * 1.12VJ/12)
+
+Where
+
+P = equals the total number of months passed in the ﬁrst four (4) years
+since the emission of each single Class C Share.
+
+S = equals the number of months passed in the ﬁfth (5) year since the
+emission of each single Class C Share.
+
+j = equals a number from 1 to n, which refers in chronological order to the
+dividends distributed (if any) to each single Class C Share since its emission (e. g.
+
+if a share was subject to 3 dividend distributions, then j will assume three values
+
+
+(i.e. 1,2,3) referring to each distribution in chronological order).
+
+Dj= equals the value of dividend number j, distributed to each single Class
+C Share.
+
+Uj= equals the total number of months passed from the date of the
+distribution of Dividend j to the earliest of the two following events i) the end of
+the fourth year since the emission of each single Class C Share, or ii) the
+cancellation of the Class C Shares.
+
+Vj= equals the total number of months (if any) passed only in the ﬁfth (5)
+year (i.e. the ﬁfth (5) year since the emission of each single Class C Share) from
+the date of the distribution of Di to the earliest of the two following events i) the
+end of the ﬁfth (5) year since the emission of each single Class C Share, or ii)
+the cancellation of the Class C Shares.
+
+The general redemption period for Class C Shares shall be as from the date
+of their subscription up to (including) the ﬁfth (5) anniversary of the subscription
+of the ﬁrst Class C Share (the “Class C Period”), it being understood that the
+Company will have to compulsory redeem all Class C Shares within the end of
+the Class C Period, and that upon redemption, if such redemption occurs within
+the 36th month from the subscription of the ﬁrst Class C Share, each holder of
+Class C Shares may request, for such Class C Shares to be redeemed, their
+immediate conversion into Class A Shares pursuant to the mechanism laid out
+in Article 6.15 below.
+
+1.1 The General Meeting may decide to convert part or all of the
+Class C Shares into Class A Shares at the request of the holders of such Class C
+Shares. Such request must be brought forward to the Board by the relevant holder
+of Class C Shares within the period between the 24th month and the 36th month
+from the subscription of the ﬁrst Class C Share issued by the Company (ie. from
+the date of incorporation of the Company). Upon request by any holder of Class
+C Shares, the Board of the Company will be obliged to, if such request is
+received within the timeframe speciﬁed above, to call for a General Meeting to
+resolve upon such request. In this case and for the purpose of the relevant
+conversion, the pre-money valuation of the existing Class A Shares will
+customarily set at three million Euros (EUR 3,000,000.-) increased by 8% per
+annum from the subscription of the relevant Class C Shares.
+
+1.2 Class A Shares and Class B Shares carry an obligation, for their
+holders and upon their subscription, to vote in favor of a Shareholders’
+Resolution regarding the conversion of Class C Shares into Class A Shares or
+Class B Shares as the case may be, pursuant to articles 6.12, 6.13, and 6.14 of
+these Articles.
+
+1.3 In the 90 days following the 36th month from the issuance of the
+ﬁrst Class C Share issued by the Company (ie from the date of incorporation of
+
+
+the Company), the Board shall call for a General Meeting to resolve on the
+conversion of all outstanding Class C Shares into Class B Shares.
+1.4 In the event of any conversion of Class C Shares into Class B
+Shares:
+1. The conversion value for each new Class B Share issued will be of one
+Euro (EUR 1.-);
+
+11. Each such Class B Share must be subscribed and fully paid up together
+with the payment of a compulsory share premium of nine Euros (EUR 9.-) per
+share;
+
+III. The value of each Class C Share conversion amount will be determined
+according to article 6.13 above;
+
+IV. The number of Class B Shares to be issued upon conversion of Class C
+Shares will be rounded up to the nearest decimal taking into account their
+nominal value of one (1) Euro (EUR 1.-) and their compulsory share premium
+of nine (9) Euros (EUR 9.-) per share as set out in article 6.5 above respectively,
+and the remaining amount resulting from the Class C Share redemption
+calculation set out in article 6.13 above will be paid out in cash to each
+Shareholder holding Class C Shares at the moment of their conversion into Class
+C Shares;
+
+V. The cancellation amount for each newly emitted Class B Share will be
+calculated according to article 6.12 above, assuming the date of conversion as
+the date of subscription of each such newly emitted Class B Share;
+
+VI. The ﬁnal date for redemption of such newly emitted Class B Shares will
+remain the end of the Class B Period, and the Company will have to compulsory
+redeem all such newly emitted Class B Shares within the end of the Class B
+Period.
+
+1.5 The General Meeting may decide to increase the share capital of
+the Company through the capitalisation of a liquid, due and payable receivable
+held by a Shareholder against the Company and resulting from an approved but
+
+not distributed dividend or interim dividend from the applicable ﬁscal year.
+
+2. Shares
+2.1 All Shares are and remain in registered form.
+2.2 Ownership of a Share carries implicit acceptance of these Articles
+
+and the Shareholders’ Resolutions.
+
+2.3 One vote is attached to each Share, subject to the limitations
+imposed by the laws of the Grand Duchy of Luxembourg.
+
+2.4 Each Share of the Company is indivisible vis-a-vis the Company.
+Co-owners of Shares must be represented by a common representative vis-a-vis
+the Company. The Company has the right to suspend the exercise of all rights
+
+attached to the Share until a common representative has been notiﬁed by the co-
+
+10
+
+
+owners to the Company in writing or by fax.
+
+3. Transfer of Shares
+3.1 The Company’s Shares may be transferred freely amongst the
+Shareholders.
+
+3.2 Where the Company has a sole Shareholder, such a Shareholder
+may freely transfer his/her/its Shares.
+
+3.3 Where the Company has several Shareholders, any transfer of
+Shares to third parties requires the consent of the Shareholders representing at
+least half (1/2) of the issued Shares.
+
+3.4 If a Shareholder intends to transfer one or more Shares to a third
+party, this transferring Shareholder must send a notice to the Company with all
+relevant details of the proposed transfer, including the identity of the transferee,
+the transfer price, and, if relevant, the conditions applicable to the transfer.
+
+3.5 If the proposed transfer is not approved by the Shareholders in
+accordance with article 3.3, the Shareholders may, within three (3) months from
+the date of refusal by the Company, acquire the Share(s), unless otherwise
+agreed, or procure the acquisition of the Share(s) at a price determined in
+accordance with these Articles and the terms of the proposed transfer set out
+under 3.4 and any other terms and conditions negotiated between the parties,
+with the exception of the transferring Shareholder deciding not to proceed with
+the transfer. Upon request of the Board, the period of three (3) months can be
+extended by the judge of the Luxembourg district court (Tribunal
+d'Arrondissement) entrusted with commercial matters and interim relief, it being
+understood that this extension shall not exceed six (6) months.
+
+3.6 The Company may within the same timeframe and with the
+consent of the transferring Shareholder, decide to (i) reduce its share capital by
+an amount corresponding to the aggregate par value of the relevant Share(s) and
+(ii) redeem and cancel those Shares at a price determined in good faith between
+the transferring Shareholder and the Board. If the transferring Shareholder does
+not consent to the capital reduction, the transfer shall in such a case take place
+in accordance with articles 3.3 and 3.5.
+
+3.7 Where the Company has several Shareholders, any transfer of
+Shares to third parties for reasons of death of any Shareholder requires the
+consent of the Shareholders representing at least half (l/2) of the issued Shares
+belonging to the surviving Shareholders.
+
+3.8 If after the period mentioned under article 3 .5 neither the existing
+Shareholders have acquired nor the Company has redeemed its Shares, the
+transferring Shareholder may freely sell his/her/its Shares to the proposed new
+Shareholder(s) at the transfer price and conditions which were notiﬁed to the
+
+Company.
+
+11
+
+
+3.9 Any transfer of Shares must be evidenced by a notarial deed or
+under private seal. No transfer of Shares is binding vis-a-vis the Company or vis-
+a-vis third parties unless duly notiﬁed to the Company or accepted by the
+Company in accordance with the applicable Luxembourg law on transfers of
+claims, in particular, without limitation, article 1690 of the Luxembourg Civil
+Code.
+
+4. Share capital increase
+
+The share capital of the Company may be increased once or several times
+by the Shareholders in accordance with these Articles and the laws of the Grand
+Duchy of Luxembourg applicable to any amendment of these Articles, provided
+that:
+
+(i) any increase of the share capital (a) shall be made proportionately within
+each outstanding Class of Shares of the Company and (b) must result in each
+Shareholder holding a proportionate part of each outstanding Class of Shares of
+the Company;
+
+(ii) any subdivision of a Class of Shares into new classes of Shares must
+result in each shareholder of the former undivided Class of Shares holding a
+proportionate part of each new subdivided Class of Shares; and
+
+(iii) any combination or aggregation of Classes of Shares into a new Class of
+Shares must result in each Shareholder of the former Classes of Shares holding
+a proportionate part of the new, combined Class of Shares.
+
+BOARD; AUDITOR
+
+5. Managers
+
+5.1 The Company shall be managed by one or several managers, who
+do not need to be Shareholders (the "Manager(s)").
+
+5.2 The Managers are appointed by the Shareholders who determine
+(i) their number, (ii) their remuneration and (iii) the limited or unlimited duration
+of their mandate.
+
+5.3 The Managers will hold ofﬁce until their successors are elected.
+They may be re-elected and may be removed at any time, with or without cause,
+by the Shareholders.
+
+5.4 The Shareholders may decide to qualify the appointed Managers
+as class A managers and class B managers respectively.
+
+5.5 Even after the term of their mandate, the Managers are not
+entitled to disclose conﬁdential information of the Company or any Company
+information which may be detrimental to the Company's interests, except when
+such a disclosure is mandatory by law.
+
+5.6 The sole Manager or, as the case may be, the Board may confer
+its powers to conduct the daily management and affairs of the Company and
+
+represent the Company in relation to such a daily management and affairs on any
+
+12
+
+
+Manager(s) or any other person, who need not be a Shareholder, acting alone or
+jointly, at such terms as the sole Manager or, as the case may be the Board, shall
+determine. Their appointment removal and powers shall be determined either by
+these Articles or by a resolution of the Board.
+
+6. Board of Managers
+
+6.1 Where more than one Manager has been appointed, the Managers
+will constitute a Board.
+
+6.2 The Board may appoint a Manager as its chair (the "Chair of the
+
+Board").
+7. Powers of Board
+7.1 The Board is vested with full powers to act on behalf of the
+
+Company and to authorize, on behalf of the Company, all acts which the Board,
+in its full discretion, deems necessary or useful for accomplishing the Company's
+object. All powers not expressly reserved by the laws of the Grand Duchy of
+Luxembourg to the Shareholders fall within the competence of the Board.
+
+7.2 The Board may also set up one or more committee(s) and
+determine its/their composition and powers and delegate certain powers and/or
+special mandates to them.
+
+7.3 The Board may confer certain powers and/or special mandates to
+act on behalf of and bind the Company, vis-a-vis third parties, to one or several
+Manager(s), Shareholder(s) or third person(s), any of these acting either alone or
+jointly as determined by the Board.
+
+7.4 In case of a sole Manager, the aforesaid powers in this article 7
+shall be invested in the sole Manager.
+
+8. Meetings of the Board and written decisions
+
+8.1 The Board will meet upon the request of any Manager, and where
+there are both class A Managers and class B Managers, by at least one Manager
+of each class.
+
+8.2 The Chair of the Board, or any Manager or an authorized
+representative, in case no Chair of the Board has been appointed, will inform the
+other Managers of the place, date, time and agenda of the meeting by written
+notice or email. No separate notice is required for meetings held at places, dates
+and times speciﬁed in a time schedule previously adopted by a decision of the
+Board and in case of urgency.
+
+8.3 The above-mentioned notice requirement may be waived in
+writing by the concerned Manager(s) or by the unanimous written consent of all
+Managers at the relevant meeting of the Board.
+
+8.4 At each Board meeting, the Board shall appoint the chair of the
+relevant meeting by vote of the majority of the Managers present or represented
+
+at such a meeting.
+
+13
+
+
+8.5 The Board may also appoint a secretary, whether a Manager or
+not, who will be responsible for keeping the minutes of the meeting.
+
+8.6 Managers may attend and act at any Board meeting by appointing
+another Manager in writing as her/his representative.
+
+8.7 Managers may participate and express their vote in a Board
+meeting by means of a conference call, by videoconference or by any similar
+means of communication enabling several persons participating therein to
+simultaneously communicate with each other. These methods of participation
+are to be considered as equivalent to a physical presence at the relevant meeting
+deemed to be held at the registered ofﬁce of the Company.
+
+8.8 A quorum of the Board shall be the presence or the representation
+of a majority of the Managers holding ofﬁce, provided, whenever applicable,
+that at least a class A Manager and a class B Manager are present. Decisions will
+be taken by a maj ority of the votes of the Managers present or represented at the
+relevant meeting and this maj ority shall at least, whenever applicable, include a
+class A Manager and a class B Manager. In the case of a tied vote, the Chair of
+the Board does not have a casting vote.
+
+8.9 The minutes of Board meetings must be drawn up and signed by
+all Managers present at the relevant meeting. Any powers of attorney shall
+remain attached to the minutes.
+
+8.10 A written resolution signed by all Managers is proper and valid
+as though it had been adopted at a meeting of the Board which was duly
+convened and held at the registered ofﬁce of the Company. Such a resolution
+can be documented in either a single document signed by all Managers or in
+several separate documents all with the same content each of them signed by one
+or several Managers.
+
+811 Where only one Manager has been appointed, such Manager has
+full power to act on behalf of and validly bind the Company without the need of
+any decision in writing or minutes of the sole Manager’s decisions.
+
+8.12 Copies or extracts of the minutes of the Board meeting shall be
+certiﬁed by the Board.
+
+9. Representation of the Company
+
+9.1 Where only one Manager has been appointed, the Company will
+be bound vis-a-vis third parties by the sole signature of that Manager as well as
+by the joint or single signature of any person(s) to whom such a Manager has
+delegated signatory authority, within the limits of such an authority.
+
+9.2 Where the Company is managed by a Board, the Company will
+be bound vis-a-vis third parties by the joint signatures of any two Managers as
+well as by the joint or single signature of any person(s) to whom the Board has
+
+delegated signatory authority, within the limits of such an authority.
+
+14
+
+
+9.3 Notwithstanding the above, the Company will be bound vis-a-vis
+third parties only by the joint signatures of one class A manager and one class B
+manager if the Shareholder(s) has/have qualiﬁed the Managers as class A
+managers and class B managers as well as by the joint or single signature of any
+person(s) to whom the Board has delegated signatory authority, within the limits
+of such an authority.
+
+10. Conﬂict of Interests
+
+10.1 Subject to the following, the conﬂict of interest rules as set out in
+article 441-7 of the Law shall apply.
+
+10.2 No contract or other business between the Company and any third
+party company or ﬁrm shall be affected or invalidated by the sole fact that one
+or several duly authorized representatives of the Company, including but not
+limited to any Manager, (i) has a direct or indirect ﬁnancial interest conﬂicting
+with the interests of the Company, or (ii) is a duly authorized representative
+and/or Shareholder of such other company or ﬁrm (the "Conﬂicted
+Representative").
+
+10.3 Except as otherwise provided for hereafter, the Conﬂicted
+Representative shall not be automatically prevented from participating in the
+deliberations or voting on any such transaction, contract or other business. For
+all contracts or other business not (i) falling within the scope of the day-to-day
+management of the Company, (ii) being concluded in the Company's ordinary
+course of business and (iii) being concluded at arm's length, the Conﬂicted
+Representative shall inform the Board of any such personal interest and shall
+not deliberate or vote on any such transaction or other business, and the
+Shareholders shall be notiﬁed of such a transaction or other business and the
+Conﬂicted Representative's interest therein. Where by reason of conﬂicts of
+interest on a speciﬁc transaction, contract or other business, the requirements
+provided under article 8.8 of these Articles in order to deliberate and vote on
+such a transaction, contract or other business are not fulﬁlled, the Board may
+decide to submit the decision on such a transaction, contract or other business to
+the approval of the General Meeting.
+
+10.4 If the Conﬂicted Representative is the sole Manager, the relevant
+contract or other business not (i) being concluded in the Company's ordinary
+course of business and (ii) being concluded at arm's length shall be approved by
+the General Meeting or the sole Shareholder (as the case may be).
+
+10.5 The daily manager(s) of the Company, if any, are mutatis
+mutandis subject to articles 10.2 to 10.4 of these Articles. If only one (1) daily
+manager has been appointed and becomes a Conﬂicted Representative, the
+relevant decision shall be adopted by the Board. Where by reason of conﬂicts of
+
+interest on a speciﬁc transaction, contract or other business, the requirements
+
+15
+
+
+provided under article 8.8 of these Articles in order to deliberate and vote on
+such a transaction, contract or other business are not fulﬁlled, the daily
+manager(s) may decide to submit the decision on such a transaction, contract or
+other business to the approval of the Board.
+
+11. Indemniﬁcation of Managers
+
+11.1 The Company will indemnify its Manager(s), and, if applicable,
+their successors, heirs, executors and administrators, against damages and
+expenses reasonably incurred in connection with any action, suit or proceeding
+to which the Manager(s) is/(are) party for being or having been Manager(s) of
+the Company or, at the request of the Company, of any other company of which
+the Company is a Shareholder or creditor if and to the extent they are not entitled
+to indemniﬁcation by this other company.
+
+11.2 Indemniﬁcation will only be provided if and to the extent the
+Manager(s) is/(are) not ﬁnally adjudged in an action, suit or proceeding to be
+liable for gross negligence or misconduct.
+
+11.3 In the event of a settlement, indemniﬁcation will only be
+provided if and to the extent the Company is advised by its legal counsel that the
+Manager(s) did not commit a breach of his/her duties.
+
+11.4 The foregoing right of indemniﬁcation does not exclude other
+rights to which the Manager(s) and, if applicable its/(their) successors, heirs,
+executors and administrators may be entitled.
+
+12. Audit
+
+12.1 If no licensed independent auditor (réviseur d ’entreprises agréé)
+is required by the laws of the Grand Duchy of Luxembourg and the Company
+has more than sixty (60) Shareholders, the Company's annual accounts are to be
+audited by one or more statutory auditor(s) (commissaire(s) aux comptes), which
+can either be one or several Shareholders or third persons.
+
+12.2 If no licensed independent auditor (réviseur d ’entreprises agréé)
+is required by the laws of the Grand Duchy of Luxembourg and the Company
+has sixty (60) or less Shareholders, the Shareholders may decide, without being
+obliged to do so, to have the annual accounts audited by one or more statutory
+auditor(s) (commissaire(s) aux comptes), being either Shareholders or third
+persons.
+
+12.3 The auditor(s) shall be appointed by the Shareholders who shall
+determine the (i) number of auditor(s), (ii) remuneration of the auditor(s) and
+(iii) duration of the mandate of the auditor(s). The auditor(s) will hold ofﬁce
+until their successors are elected. They may be re-elected at the end of their term
+and they may be removed at any time, with or without cause, by the
+Shareholders.
+
+SHAREHOLDERS
+
+16
+
+
+13. Shareholders' Resolutions
+
+13.1 The Shareholders decide by passing resolutions either in General
+Meetings or, subject to the limitations set forth in these Articles and the laws of
+the Grand Duchy of Luxembourg, by written resolutions (the “Shareholders’
+Resolution(s)”).
+
+13.2 Any amendment to the Articles (including the change of
+nationality) must be approved by a majority of Shareholders representing three-
+quarters (3/4) of the issued share capital, except as otherwise required by the
+laws of the Grand Duchy of Luxembourg or by the Articles.
+
+13.3 All other Shareholders' Resolutions will be adopted by
+Shareholders representing more than half (1/2) of the issued share capital of the
+Company, except as otherwise required by the laws of the Grand Duchy of
+Luxembourg or by the Articles. In case the quorum is not reached at the ﬁrst
+meeting, the Shareholders shall be convened or consulted a second time, by
+registered letter, and decisions shall be adopted by a majority of the votes cast,
+regardless of the portion of issued share capital represented.
+
+13.4 The Board may suspend the voting rights of any Shareholder in
+breach of its obligations under these Articles and/or any other contractual
+arrangements entered into by any such Shareholder.
+
+13.5 A Shareholder may individually decide not to exercise,
+temporarily or permanently, all or part of its voting rights. The waiving
+Shareholder is bound by such a waiver which shall become mandatory to the
+Company upon notiﬁcation to the latter.
+
+13.6 In case the voting rights of one or several Shareholders are
+suspended in accordance with article 13.4 hereof or the exercise of the voting
+rights has been waived by one or several Shareholders in accordance with article
+13.5 hereof, such Shareholders may attend any General Meeting but the Shares
+they hold are not taken into account for the determination of the conditions of
+quorum and majority to be complied with at the General Meeting.
+
+14. Written Resolutions
+
+14.1 If the Company has sixty (60) or less Shareholders, the
+Shareholders' Resolutions do not have to be passed in General Meetings but may
+
+also be passed by written resolution.
+14.2 The text of resolutions to be adopted by written resolution will be
+
+sent to the Shareholders in writing by the Board by registered letter, letter, e-
+mail or fax. Shareholders are under the obligation to cast their vote and send it
+back to the Board by registered letter, letter, e-mail or fax within fifteen (15)
+days as from the receipt of the letter. Any votes not cast within this time frame
+will be considered as having abstained from voting.
+
+14.3 The formal requirements set forth in article 14.2 of the Articles
+
+17
+
+
+for passing written Shareholders' Resolutions may be waived by unanimous
+written resolution of all Shareholders in the relevant written resolution or
+otherwise.
+
+14.4 The formal requirements set forth in article 14.2 of the Articles
+for passing written Shareholders' Resolutions do not apply if the Company has
+only one Shareholder. All resolutions adopted by a sole Shareholder must,
+however, be documented in writing and signed by the sole Shareholder.
+
+14.5 Any copies or extracts of the written Shareholders' Resolutions
+shall be certiﬁed by the Board.
+
+15. General Meetings
+
+15.1 An annual General Meeting needs only be held if the Company
+has more than sixty (60) Shareholders. In that case, it must be held within six (6)
+months of the end of each ﬁnancial year at the registered ofﬁce of the Company
+or any such place in the Grand Duchy of Luxembourg as may be speciﬁed in the
+convening notice of such meeting.
+
+15.2 Extraordinary General Meetings are convened in accordance with
+the laws of the Grand Duchy of Luxembourg by notice of the Board, the
+auditor(s) of the Company or the Shareholder(s) representing at least half (1/2)
+of the issued share capital of the Company (as the case may be).
+
+15.3 A General Meeting may only be held abroad if, in the opinion of
+the Board, this should be necessary due to circumstances of force majeure.
+
+15.4 The notice convening the General Meeting shall indicate the
+place, date, time and agenda of the meeting and shall be sent to the Shareholders
+at least eight (8) days prior to the meeting. The above mentioned notice
+requirement may be waived in writing by the concerned Shareholder(s) or by the
+unanimous written consent of all Shareholders at the relevant meeting of the
+Shareholders.
+
+15.5 Any duly constituted General Meeting represents all the
+Shareholders of the Company.
+
+15.6 If the Company has only a sole Shareholder, this sole Shareholder
+exercises the powers granted to the General Meeting by the applicable law and
+these Articles. Articles 710-18 to 710-22 and 710-26 of the Law are not
+applicable to that situation.
+
+16. Procedure at General Meetings
+
+16.1 A Shareholder may act at a General Meeting by appointing a
+representative, who does not have to be a Shareholder, in writing or by fax.
+
+16.2 Shareholder(s) may participate in a General Meeting by means of
+a conference call, by videoconference or by any similar means of communication
+enabling several persons to communicate with each other. Such participation
+
+shall be deemed equivalent to a physical presence at the relevant meeting.
+
+18
+
+
+16.3 The Board may determine all other conditions that must be
+fulﬁlled in order to take part in a General Meeting.
+
+16.4 At each meeting of the Shareholders, the Shareholders shall
+appoint the chair of the relevant meeting by vote of the majority of the
+Shareholders present or represented at such a meeting (the "Chair of the
+General Meeting").
+
+16.5 The Chair of the General Meeting will appoint a secretary. The
+Shareholders will appoint one or several scrutineer(s). The Chairman of the
+General Meeting together with the secretary and the scrutineer(s) form the
+bureau of the General Meeting (the "Bureau").
+
+16.6 An attendance list indicating the (i) name of the Shareholders, (ii)
+number of Shares held by them and, if applicable, (iii) name of the
+representative, must be drawn up and signed by the members of the Bureau.
+
+16.7 Minutes of the resolutions of the General Meeting shall be drawn
+up and signed by the Bureau.
+
+16.8 Copies or extracts of the minutes of the General Meeting shall be
+certiﬁed by the Board.
+
+17. Right to information
+
+One or several Shareholders holding together at least ten percent (10%) of
+the share capital or the voting rights of the Company may submit questions in
+writing to the Board relating to transactions in connection with the management
+of the Company as well as companies controlled by the Company; with respect
+to the latter, such questions shall be assessed in consideration of the relevant
+entities' corporate interest. In the absence of a response within one (1) month,
+the relevant Shareholder(s) may request the judge of the Luxembourg district
+court (Tribunal d'Arrondissement) entrusted with commercial matters and
+interim relief, to appoint one or several experts in charge of presenting a report
+on such related transactions referred to in the written question(s).
+
+FINANCIAL YEAR, DISTRIBUTIONS OF EARNINGS
+
+18. Financial year
+
+The Company's ﬁnancial year begins on the ﬁrst day of the month of
+January and ends on the last day of the month of December.
+
+19. Approval of ﬁnancial statements
+
+19.1 At the end of each ﬁnancial year, the accounts are closed and the
+Board will draw up the annual accounts of the Company in accordance with the
+laws of the Grand Duchy of Luxembourg.
+
+19.2 The Board will submit the annual accounts of the Company to the
+Company's auditor(s), if any, for review and to the Shareholders for approval.
+
+19.3 Each Shareholder may inspect the annual accounts at the
+
+registered ofﬁce of the Company as provided for by the laws of the Grand Duchy
+
+19
+
+
+of Luxembourg.
+
+20. Allocation of Proﬁts
+
+20.1 From the annual net proﬁts of the Company (if any), 5% (ﬁve per
+cent) shall be allocated to a legal reserve (the "Legal Reserve“). This allocation
+shall cease to be required as soon as the Legal Reserve amounts to 10% (ten per
+cent) of the share capital of the Company, but shall again be compulsory if the
+Legal Reserve falls below 10% (ten per cent) of the share capital of the
+Company.
+
+20.2 After allocation to the Legal Reserve, the Shareholders shall
+determine how the remainder of the annual net proﬁts will be disposed of. It may
+decide to allocate the whole or part of the remainder to a reserve or to a provision,
+to carry it forward to the following ﬁnancial year or to distribute it, together with
+proﬁts carried forward from previous ﬁnancial years, distributable reserves or
+share premium, to the Shareholders as dividend.
+
+20.3 In any year in which the Shareholders resolves to make a dividend
+distribution, drawn from net proﬁts and from available reserves derived from
+retained earnings, including any share premium, the amount allocated to this
+effect shall be distributed in the following order of priority:
+
+(a) the holders of Class A Shares shall be entitled to receive a
+preferential dividend distribution with respect to such a year in an amount of ten
+per cent (10%) of the nominal value of the Class A Shares held by them, then
+
+(b) the holders of Class B Shares shall be entitled to receive a
+preferential dividend distribution with respect to such a year in an amount of one
+per cent (1%) of the nominal value of the Class B Shares held by them, then
+
+(c) the holders of Class C Shares shall be entitled to receive a
+preferential dividend distribution with respect to such a year in an amount of two
+per cent (2%) of the nominal value of the Class C Shares held by them.
+
+20.4 The holders of the Class of Shares that may be redeemed and
+cancelled at the time of the relevant dividend distribution pursuant to these
+
+Articles shall be entitled to receive the remainder of any relevant dividend
+
+distribution.
+21. Interim dividends
+21.1 The Board is authorized to pay out interim dividends, provided
+
+that current interim accounts have been drawn up and that said interim accounts
+show that the Company has sufﬁcient available funds for such a distribution, in
+accordance with the conditions set forth under article 710-25 of the Law.
+DISSOLUTION, LIQUIDATION
+22. Dissolution and liquidation
+22.1 The dissolution of the Company may be resolved by its
+
+Shareholders with the same quorum and majority required to amend these
+
+20
+
+
+Articles, unless otherwise provided by the laws of the Grand Duchy of
+Luxembourg.
+
+22.2 Should the Company be dissolved, the liquidation will be carried
+out by one or more liquidators appointed by the Shareholders determining
+powers and compensation of the liquidator(s).
+
+22.3 After payment of all the outstanding debts of and charges against
+the Company, including taxes and expenses pertaining to the liquidation process,
+the remaining net assets of the Company shall be distributed equally to the
+Shareholders pro rata to the number of the Shares held by them.
+
+APPLICABLE LAW
+
+23. Applicable law
+
+All matters not governed by these Articles shall be determined by the
+applicable provisions of Luxembourg law.
+
+SUBSCRIPTION - PAYMENT
+Thereupon, the Appearing Parties declare to subscribe the entire share
+
+capital as follows:
+
+Number of Subscribed Shares
+Tan Holdings s.r.1.‚ prenamed 60,000 class A shares
+
+TAN 2.0 LP, prenamed 300,000 class B shares
+100,000 class C shares
+
+All the shares of the Company have been fully paid-up by way of a
+
+ 
+
+contribution in cash of an amount of four hundred and sixty thousand Euros
+(EUR 460,000.-) so that the Company’s subscribed and issued share capital of
+four hundred and sixty thousand Euros (EUR 460,000.-) is now at the disposal
+of the Company, proof of which has been given to the undersigned notary.
+TRAN SITION AL DISPOSITION S
+
+The ﬁrst fiscal year shall begin on the date of incorporation of the
+
+Company and shall terminate on 31 December 2019.
+EXTRAORDINARY GENERAL MEETING
+
+The Appearing Parties, represented by the Representative, in their capacity
+as shareholders of the Company, thereupon took the following resolutions:
+
+A. The Company shall be represented by two (2) managers (the
+“Managers”).
+
+B. The following are appointed as Managers for an unlimited period:
+
+1. Mrs Franca SORGI, residing at 4, rue Antoine-Francois Van Der
+Meulen, L-2152 Luxembourg, Grand Duchy of Luxembourg; and
+
+2. Mr Filippo GIOVANNINI, residing at Via Paleocapa 4, 20121 Milan,
+Italy.
+
+C. Mrs Franca SORGI, residing at 4, rue Antoine-Francois Van Der
+Meulen, L-2152 Luxembourg, Grand Duchy of Luxembourg is appointed as
+
+21
+
+
+daily manager of the Company (délégué à la gestion journalière).
+
+D. The registered ofﬁce of the Company shall be at 75, Parc d’Activités,
+
+L-83 08 Capellen, Grand Duchy of Luxembourg.
+Expenses
+
+The expenses, costs, fees and charges of any kind whatsoever which will
+have to be borne by the Company as a result of this deed are estimated at
+approximatively two thousand Euros (EUR 2,000.-).
+
+Statement
+
+The undersigned notary, who understands English, states that, on request
+of the Appearing Party, the present deed is worded in English followed by a
+French version and that, in case of any discrepancies between the English and
+the French version, the English version shall prevail.
+
+WHEREOF the present notarial deed was drawn up in J unglinster, on the
+day named at the beginning of this document.
+
+The document having been read in the language of the appearing person,
+acting as said before, known to the notary by surname, Christian name, civil
+status and residence, the said mandatory signed together with Us the notary the
+present deed.
+
+SUIT LA VERSION FRANCAISE DU TEXTE QUI PRECEDE
+
+L’an deux mille dix-huit, le dix-huit décembre.
+
+Pardevant Maitre Jean SECKLER, notaire de résidence à Junglinster,
+(Grand-Duché de Luxembourg), soussigné.
+
+A COMPARU
+
+1. TAN Holdings s.r.l., une société constituée et existante selon les lois
+d’Italie, ayant son siege social au Viale Majno 26, (20129) Milano, Italie et
+immatriculée auprès du registre des sociétés de l’Italie sous le numéro
+07530270961; dûment représentée par son Directeur Général Filippo
+Giovannini, et
+
+2. TAN 2.0 LP, SCSp, une société en commandite spéciale, régie par les
+lois du Grand-Duché de Luxembourg (la «Société en Commandite»),
+représentée par son associé commandite, TAN ICGP S.à r.l., une société à
+responsabilité limitée, constituée et existante selon les lois du Grand-Duché de
+Luxembourg, ayant son siege social au L-8308 Capellen, 75, Parc d'Activités,
+Luxembourg et immatriculée au Registre du Commerce et des Sociétés à
+Luxembourg sous le numéro B230118 (l’<<Associé Commandité») agissant en
+sa qualité d’associé commandite de la Société en Commandite,
+
+(les «Parties Comparantes >>),
+
+Ici représentées par Monsieur Henri DA CRUZ, employé, demeurant à
+J unglinster, Grand-Duché de Luxembourg (le << Mandataire >>) en vertu de deux
+
+procurations données sous seing privé.
+
+22
+
+
+Lesdites procurations, après avoir été signées ne varietur par le Mandataire
+et par le notaire soussigné, resteront annexées au présent acte pour être soumises
+avec lui aux formalités de l’enregistrement.
+
+Les Parties Comparantes, représentées comme indiqué ci-dessus, ont
+requis le notaire instrumentant d’établir comme suit les statuts d’une société à
+responsabilité limitée qu’elles déclarent constituer :
+
+« STATUTS
+DEFINITIONS
+
+<< Assemblées Générales >> désigne les assemblées générales du/des
+Associés de la Société ;
+
+<< Associé >> ou << Associés >> désigne toute Personne détenant des Parts
+Sociale de la Société ou à laquelle de telles Parts Sociales ont été cédées ou au
+bénéﬁce de laquelle la Société a émis de telles Parts Sociales, de temps à autre,
+conformément aux termes des présents Statuts (à l’exception de la Société) ;
+
+<< Bureau >> a le sens qui lui est donné à l’article 21.5 des Statuts ;
+
+<< Catégories de Parts Sociales >> ou << Catégorie de Parts Sociales >> a le
+sens qui leur est donné à l’article 6.1 des Statuts ;
+
+<< Comptes Intérimaires >> désigne les comptes intérimaires de la Société
+à une Date de Comptes Intérimaires donnée ;
+
+<< Conseil >> a le sens qui lui est donné à l’article 3.2 des Statuts ;
+
+<< Date de Comptes Intérimaires >> désigne la date qui ne peut être
+inférieure au huitième (8) jour précédant le rachat et l’annulation d’une
+Catégorie de Parts Sociales ;
+
+<< Droit au Bénéﬁce >> désigne les droits aux dividendes conformément
+aux présents Statuts sur les Catégories de Parts Sociales non rachetés et annulées;
+
+<< Gérant(s) >> a le sens qui lui est donné à l’article 10.1;
+
+<< Liquidités Disponibles >> désigne (i) toutes les espèces détenues par la
+Société (à l'exception des espèces sur les dépôts à terme dont l'échéance
+résiduelle est supérieure à six mois), (ii) tout instrument du marché monétaire
+facilement négociable, obligations et reconnaissances de dettes et toute créance
+qui, de l'avis du Conseil, sera payée à la Société à court terme moins tout
+endettement ou autre dette de la Société payable à moins de six (6) mois,
+déterminé sur la base des Comptes Intermédiaires relatifs àla Période de Rachat
+de Catégorie concernée (ou Nouvelle Période de Rachat, selon le cas) et (iii) tout
+actif tel que des parts sociales, actions ou autres titres détenus par la Société ;
+
+<< Loi >> a le sens qui lui est donné à l’article 1.1 des Statuts ;
+
+<< Montant Disponible >> désigne le montant total des bénéfices nets de la
+Société (en ce compris les bénéﬁces reportés), augmentés de (i) toutes réserves
+librement distribuables (y compris la prime d’émission et le compte 115), et (ii)
+
+le cas échéant, par le montant de la réduction de capital social et de la réduction
+
+23
+
+
+de la réserve légale liée à la Catégorie de Parts Sociales devant être rachetée ou
+annulée mais réduite de (i) toutes pertes (en ce compris les pertes reportées)
+exprimées en un montant positif, (ii) toutes sommes devant être placées en
+réserve(s) conformément aux exigences de la Loi ou des Statuts, tel que reﬂété
+dans les Comptes Intérimaires concernés, (iii) tous dividendes auxquels a droit
+le ou les détenteur(s) des Parts Sociales de Catégorie A conformément aux
+Statuts et (iv) tous Droits aux Bénéﬁces, de telle manière que :
+
+AA=(NP+P+CR)—(L+LR+PE)
+
+où:
+
+AA = Montant Disponible.
+
+NP = bénéﬁces nets (incluant les bénéﬁces reportés).
+
+P = toutes réserves librement distribuables.
+
+CR = le montant de la réduction de capital social et de la réduction de la
+réserve légale liée à la Catégorie de Parts Sociales devant être rachetée ou
+annulée.
+
+L = pertes (incluant toutes pertes reportées) exprimées en un montant
+positif.
+
+LR = toutes sommes devant être placées en réserve(s) conformément aux
+exigences de la Loi ou des Statuts.
+
+OD = tous dividendes auxquels a droit le ou les détenteur(s) des Parts
+Sociales de Catégorie A conformément aux Statuts.
+
+PE = les Droits aux Bénéﬁces.
+
+<< Montant Total d’Annulation >> désigne un montant n’excédant pas le
+Montant Disponible relatif à la Période de Rachat de Catégorie concernée sous
+réserve qu’un tel Montant Total d’Annulation ne soit pas supérieur aux
+Liquidités Disponibles relatives àla Période de Rachat de Catégorie concernée ;
+
+<< Parts Sociales >> désigne toute part sociale émise par la Société, de temps
+à autre, conformément aux Statuts ;
+
+<< Parts Sociales de Catégorie A >> a le sens qui lui est donné à l’article
+6.1 des Statuts ;
+
+<< Parts Sociales de Catégorie B >> a le sens qui lui est donné à l’article
+6.1 des Statuts ;
+
+<< Parts Sociales de Catégorie C >> a le sens qui lui est donné à l’article
+6.1 des Statuts ;
+
+<< Période de Rachat de Catégorie B >> a le sens qui lui est donné à
+l’article 6.12 des Statuts ;
+
+<< Période de Rachat de Catégorie C >> a le sens qui lui est donné à
+l’article 6.13 des Statuts ;
+
+<< Personne >> désigne un particulier, une société, une société en
+
+commandite, une société à responsabilité limitée, une association, un trust ou
+
+24
+
+
+toute autre forme de société ou d’organisation, en ce inclus une sous-division
+gouvernementale ou politique ou une agence ou un service gouvernemental ou
+politique ;
+
+<< Président de l’Assemblée Générale >> a le sens qui lui est donné à
+l’article 21.4 des Statuts ;
+
+<< Président du Conseil >> a le sens qui lui est donné à l’article 11.2 des
+Statuts ;
+
+<< Réserve Légale >> a le sens qui lui est donné à l’article 25.1 des Statuts ;
+
+<< Résolutions des Associés >> a le sens qui lui est donné à l’article 18.1 des
+Statuts
+
+<< Représentant en Conﬂit >> a le sens qui lui est donné à l’article 15.2 des
+Statuts ;
+
+<< Société >> a le sens qui lui est donné à l’article 1.1 des Statuts ;
+
+<< Statuts >> désigne les statuts de la Société, tels que modiﬁés le cas
+échéant ;
+
+<< Valeur d’Annulation par Part Sociale >> est calculé en divisant le
+Montant Total d’Annulation à appliquer àla Catégorie de Parts Sociales rachetée
+et annulée par le nombre de Parts Sociales émises dans ladite Catégorie de Parts
+Sociales, à l’exception des Parts Sociales de Catégorie B et des Parts Sociales de
+Catégorie C pour lesquelles elle est calculée selon les dispositions des présents
+Statuts.
+
+FORME, DENOMINATION, SIEGE SOCIAL, OBJET, DUREE
+
+1. Forme
+
+1.1 11 est formé une société sous la forme d'une société à
+responsabilité limitée (la << Société >>) qui est régie par les lois du Grand-Duché
+de Luxembourg, notamment par la loi luxembourgeoise du 10 août 1915
+concernant les sociétés commerciales, telle que modiﬁée (la << L0i >>), ainsi que
+par les présents statuts (les << Statuts >>).
+
+1.2 La Société peut compter un associé unique ou plusieurs associés
+(1'<< Associé >> ou les << Associés >>), à condition que le nombre d'associés
+n’excède pas cent (100).
+
+1.3 Si le nombre d’Associés excède (pour quelque raison que ce soit)
+la limite de cent (100), la Société doit être convertie en une autre forme de société
+dans un délai d’un (1) an à compter de la date à laquelle cette limite a été
+dépassée. Dans le cas où la conversion n’a pas lieu, les autorités compétentes
+pourraient demander la liquidation de la Société.
+
+2. Dénomination
+
+La Société existe sous la dénomination << TAN Lux S.à r.l. >>.
+
+3. Siège Social
+
+3.1 Le siège social de la Société est établi dans la municipalité de
+
+25
+
+
+Capellen.
+
+3.2 Le gérant unique ou, selon le cas, le conseil de gérance de la
+Société (le << Conseil >>) est autorisé à changer l'adresse du siège social de la
+Société dans la municipalité au sein de laquelle le siège social de la Société est
+établi ou dans toute autre municipalité du Grand-Duché de Luxembourg et à
+modiﬁer les présents Statuts en conséquence.
+
+3.3 Des succursales ou autres bureaux peuvent être établis soit au
+Grand-Duché de Luxembourg, soit à l'étranger par une décision du Conseil.
+
+3.4 Au cas où le Conseil estimerait que des événements
+extraordinaires d'ordre politique, économique ou social sont ou seraient de
+nature à compromettre l'activité normale de la Société au siège social ou la
+communication aisée avec ce siège ou entre ce siège social et des personnes à
+l'étranger, elle pourra transférer temporairement le siège social de la Société à
+l'étranger, jusqu'à cessation complète de ces circonstances anormales. Ces
+mesures provisoires n'auront aucun effet sur la nationalité de la Société, laquelle,
+nonobstant ce transfert provisoire du siège social, restera régie par les lois du
+Grand-Duché de Luxembourg.
+
+4. Objet social
+
+41 La Société a pour objet social la prise de participations, de
+quelque forme que ce soit, directes ou indirectes et la détention de ces
+participations dans toutes entreprises luxembourgeoises ou étrangères ainsi que
+l’administration, la gestion et la mise en valeur de ces participations.
+
+Ceci inclut, notamment, l'investissement, l'acquisition, la vente, l'octroi ou
+l'émission, selon le cas, (sans offre publique concernant l’émission par la Société
+d’instruments de capital et/ou autres instruments de dettes convertibles) de
+certiﬁcats de capital préférentiels, prêts, obligations, reconnaissances de dettes
+et autres formes de dettes (convertibles ou non), parts sociales, bons de
+souscriptions et autres instruments de capital ou droits, incluant sans limitation,
+des parts de capital social, participations dans une association (limited
+partnership), participations dans une société à responsabilité limitée (limited
+liability company), parts préférentielles, valeurs mobilières et swaps, et toute
+combinaison de ce qui précède, qu'ils soient immédiatement réalisables ou non,
+ainsi que des obligations (incluant notamment des obligations relatives à des
+titres synthétiques) de sociétés, entités ou autres personnes juridiques de tout
+type.
+
+4.2 La Société peut employer ses fonds pour investir dans
+l’immobilier, les droits de propriété intellectuelle ou dans tout autre actif
+mobilier ou immobilier, de tout type et sous quelque forme que ce soit.
+
+4.3 La Société peut accorder des gages, garanties, privilèges,
+
+hypothèques et toute autre forme de sûretés ainsi que toute forme d'indemnités,
+
+26
+
+
+à des entités luxembourgeoises ou étrangères, en relation avec ses propres
+obligations et dettes.
+
+4.4 La Société peut accorder toute forme d'assistance (incluant
+notamment l'octroi d'avances, prêts, dépôts d'argent et crédits ainsi que l'octroi
+de gages, garanties, privilèges, hypothèques et toute autre forme de suretés) aux
+ﬁliales de la Société. De manière plus occasionnelle, la Société peut accorder le
+même type d'assistance aux sociétés qui font partie du même groupe de sociétés
+que la Société ou à des tiers, sous condition que cela tombe dans l'intérêt social
+de la Société et qu’une telle assistance n’engendre pas l’obligation pour la
+Société d’obtenir une autorisation spéciﬁque.
+
+4.5 D'une manière générale, la Société peut effectuer toute opération
+commerciale, industrielle ou ﬁnancière et s'engager dans toute autre activité
+qu'elle jugera nécessaire, conseillée, appropriée, incidente à, ou non
+contradictoire, avec l'accomplissement et le développement de son objet social.
+
+4.6 Nonobstant ce qui précède, la Société n’entrera dans aucune
+transaction qui entraînerait son engagement dans une quelconque activité qui
+serait considérée comme une activité réglementée ou qui requerrait de la Société
+
+l’obtention de toute autre autorisation spéciﬁque.
+
+5. Durée
+5.1 La Société est établie pour une durée illimitée.
+5.2 La Société peut être dissoute à tout moment par une décision
+
+prise, selon le cas, par l’Associé unique ou par l’assemblée générale des Associés
+(l’« Assemblée Générale >>) représentant les trois-quarts (3/4) du capital social
+de la Société.
+
+5.3 Le décès, la suspension des droits civiques, la dissolution, la
+faillite ou l’insolvabilité ou tout autre événement similaire qui toucherait l’un
+quelconque des Associés n’entrainera pas la dissolution de la Société.
+
+CAPITAL SOCIAL, CESSION DE PARTS SOCIALES
+
+6. Capital Social
+
+6.1 Le capital social de la Société est ﬁxé à quatre cent soixante mille
+euros (EUR 460.000,-), représenté par les catégories de parts sociales suivantes
+(les << Catégories de Parts Sociales >> ou individuellement la << Catégorie de
+Parts Sociales >>, et ensemble les << Parts Sociales >>) :
+
+- soixante mille (60.000) parts sociales de catégorie A ayant une valeur
+nominale d’un euro (EUR 1,-) chacune (les << Parts Sociales de Catégorie A >>),
+toutes souscrites et intégralement libérées ;
+
+- trois cent mille (300.000) parts sociales de catégorie B ayant une valeur
+nominale d’un euro (EUR 1,-) (les << Parts Sociales de Catégorie B >>), toutes
+souscrites et intégralement libérées ; et
+
+- cent mille (100.000) parts sociales de catégorie C ayant une valeur
+
+27
+
+
+nominale d’un euro (EUR l,-) (les << Parts Sociales de Catégorie C >>), toutes
+souscrites et intégralement libérées .
+
+6.2 Le capital social autorisé est ﬁxé à cinq cent soixante mille euros
+(EUR 560.000,-), à diviser soit en Parts Sociales de Catégorie B ou en Parts
+Sociales de Catégorie C ayant une valeur nominale d'un euro (EUR l,-) chacune
+et ayant les mêmes droits que les Parts Sociales de Catégorie B ou les Parts
+Sociales de Catégorie C existantes, selon le cas. Au cours d'une période se
+terminant cinq (5) ans après la date de constitution de la Société, il est autorisé
+d’augmenter à une ou plusieurs reprises le capital social souscrit et d’émettre de
+nouvelles Parts Sociales de Catégorie B ou de Parts Sociales de Catégorie C dans
+la limite du capital social autorisé aux personnes et selon les modalités que le
+Conseil juge appropriées, dans une proportion maximale de % de Parts Sociales
+de Catégorie C contre % de Parts Sociales de Catégorie B à chaque émission de
+Parts Sociales conformément au présent article 6.2. L’Associé de Parts Sociales
+de Catégorie A renonce à son droit de souscrire aux Parts Sociales qui seront
+émises conformément au présent article 6.2.
+
+6.3 Le capital social autorisé de la Société peut être augmenté ou
+réduit par l’adoption d’une résolution, le cas échéant, par l’Associé unique ou
+par l’Assemblée Générale représentant les trois quarts (3/4) du capital social de
+la Société.
+
+6.4 Les autorisations énoncées ci-dessus peuvent être renouvelées
+par une résolution adoptée, le cas échéant, par l'Associé unique ou par
+l'Assemblée Générale conformément aux présents Statuts et sous réserve des
+dispositions de la Loi, chaque fois pour une période n'excédant pas cinq (5)
+années.
+
+6.5 En plus du capital social, le ou les Associé(s) établiront un
+compte prime d'émission. Chaque Part Sociale de Catégorie B et Part Sociale de
+Catégorie C doivent être souscrites et entièrement libérées ensemble avec un
+paiement d'une prime d'émission obligatoire de neuf euros (EUR 9,-) par part
+sociale.
+
+Toute prime d'émission peut être utilisée par la Société pour racheter ses
+propres Parts Sociales aux Associés, pour compenser des pertes nettes réalisées,
+pour effectuer des distributions aux Associés, ou pour être affectée à la réserve
+légale.
+
+6.6 En plus du capital social et du compte prime d'émission, la
+Société peut tenir un compte 1 15 << Apport en capitaux propres non rémunéré par
+des titres» sur lequel la Société allouera toutes contributions en capital faites à
+la Société sans que la Société n’émette de nouvelles Parts Sociales en
+contrepartie de telles contributions.
+
+6.7 La Société peut acquérir ses propres Parts Sociales. Le Conseil
+
+28
+
+
+peut décider d’annuler les Parts Sociales rachetées et se prononcer sur la
+réduction de capital correspondant au nombre de Parts Sociales rachetées, mais
+qui ne pourra jamais être inférieure au capital social minimal obligatoire, et qui
+devra être formalisée par un acte notarié. Cet acte notarié doit être établi dans le
+mois de la décision du Conseil d’annuler les Parts Sociales et de réduire le capital
+social de la Société.
+
+6.8 Sous réserve de toujours être en conformité avec le droit
+applicable, le capital social de la Société peut être réduit par une décision de
+l’Assemblée Générale prise conformément aux dispositions applicables pour la
+modiﬁcation des Statuts par le rachat et l’annulation de la totalité d’une
+Catégorie de Parts Sociales via le rachat et l’annulation de toutes les Parts
+Sociales émises dans cette catégorie, à condition que l’ordre de rachat décrit ci-
+dessous et la période de rachat respective prévue aux articles 6.11, 6.12 et 6.13
+(selon le cas) soient respectés.
+
+6.9 Le capital social de la Société peut être réduit par le rachat et
+l’annulation de la totalité d’une (1) ou plusieurs Catégorie(s) de Parts Sociales à
+condition toutefois que la Société ne puisse jamais racheter et annuler les Parts
+Sociales de Catégorie A.
+
+6.10 Les Parts Sociales de Catégorie A et les Parts Sociales de
+Catégorie B comportent l'obligation pour leurs Associés et lors de leur
+souscription de voter en faveur d'une résolution des Associés relative à la
+conversion des Parts Sociales de Catégorie C en Parts Sociales de Catégorie A
+ou en Parts Sociales de Catégorie B, le cas échéant, conformément aux articles
+6.14, 6.15 et 6.17 ci-dessous.
+
+6.11 Le capital social de la Société peut être réduit par le rachat et
+l’annulation d’une (1) Catégorie entière de Parts Sociales par an, à condition
+toutefois que la Société ne puisse à aucun moment acheter et annuler les Parts
+Sociales de Catégorie A. En cas de rachat et d’annulation de Catégories de Parts
+Sociales, l’ordre suivant devra impérativement être respecté :
+
+. Parts Sociales de Catégorie C ; et
+
+. Parts Sociales de Catégorie B.
+
+6.12 En cas de réduction du capital social par rachat et annulation des
+Parts Sociales de Catégorie B, sous réserve des dispositions applicables de la
+Loi, telle Catégorie de Part Sociale confère à son détenteur le droit par Part
+Sociale de Catégorie B à un montant équivalent au résultant de la formule
+
+suivante :
+(€10 * 1.08 Mm * 1.121…) _ @ Dk * 1.08Qk/12 * 1.12 WW)
+
+Où
+M = est égal au nombre total de mois écoulés au cours des quatre (4)
+
+premières années depuis l’émission de chaque Part Sociale de Catégorie B.
+
+29
+
+
+N = est égal au nombre de mois écoulés dans la cinquième (5) année depuis
+l’émission de chaque Part Sociale de Catégorie B.
+
+k = est égal à un nombre compris entre 1 et n, qui fait référence dans l'ordre
+chronologique aux dividendes distribués (le cas échéant) à chaque Part Sociale
+de Catégorie B depuis son émission. (par exemple, si une Part Sociale était
+soumise à 3 distributions de dividendes, alors k prendra trois valeurs (c'est-à-dire
+l, 2, 3) en se référant à chaque distribution dans l'ordre chronologique).
+
+Dk = est égal à la valeur du dividende k distribué à chaque Part Sociale de
+Catégorie B.
+
+Qk = est égal au nombre total de mois écoulés entre la date de distribution
+du dividende k et le plus ancien des deux événements suivants i) la ﬁn de la
+quatrième année depuis l’émission de chaque Part Sociale de Catégorie B, ou ii)
+l’annulation des Parts Sociales de Catégorie B.
+
+Wk = est égal au nombre total de mois (le cas échéant) écoulés uniquement
+dans la cinquième (5) année (c'est-à—dire la cinquième (5) année depuis
+l'émission de chaque Part Sociale de Catégorie B) à compter de la date de
+distribution de Dk au plus ancien des deux événements suivants: i) la ﬁn de la
+cinquième (5) année depuis l’émission de chaque Part Sociale de Catégorie B ou
+ii) l’annulation des Parts Sociales de catégorie B.
+
+La période de rachat générale des Parts Sociales de Catégorie B débute à
+compter de la date de leur souscription (incluant) jusqu’au cinquième (5)
+anniversaire de la souscription de la première Part Sociale de Catégorie B (la
+«Période de Rachat de Catégorie B»), étant entendu que (sous réserve des
+dispositions applicables de la loi), la Société devra obligatoirement racheter
+toutes les Parts Sociales de Catégorie B avant la ﬁn de la période.
+
+6.13 En cas de réduction du capital social par rachat et annulation des
+Parts Sociales de Catégorie C, sous réserve des dispositions applicables de la
+Loi, telle Catégorie de Part Sociale confère à son détenteur le droit par Part
+Sociale de Catégorie C à un montant équivalent au résultant de la formule
+
+suivante :
+(€10 * 1.08 Mm * 1.121…) _ @ Dk * 1.08Qk/12 * 1.12 WW)
+
+Où
+
+P = est égal au nombre total de mois écoulés au cours des quatre (4)
+premières années depuis l’émission de chaque Part Sociale de Catégorie C.
+
+S = est égal au nombre de mois écoulés dans la cinquième (5) année depuis
+l’émission de chaque Part Sociale de Catégorie C.
+
+j = est égal à un nombre compris entre 1 et n, qui fait référence dans l'ordre
+chronologique aux dividendes distribués (le cas échéant) à chaque Part Sociale
+de Catégorie C depuis son émission. (par exemple, si une Part Sociale était
+
+soumise à 3 distributions de dividendes, alors j prendra trois valeurs (c'est-à-dire
+
+30
+
+
+1, 2, 3) en se référant à chaque distribution dans l'ordre chronologique).
+
+Dj = est égal àla valeur du dividende j distribué à chaque Part Sociale de
+Catégorie B.
+
+Uj = est égal au nombre total de mois écoulés entre la date de distribution
+du dividende j et le plus ancien des deux événements suivants i) la ﬁn de la
+quatrième année depuis l’émission de chaque Part Sociale de Catégorie C, ou ii)
+l’annulation des Parts Sociales de Catégorie C.
+
+Vj = est égal au nombre total de mois (le cas échéant) écoulés uniquement
+dans la cinquième (5) année (c'est-à—dire la cinquième (5) année depuis
+l'émission de chaque Part Sociale de Catégorie C) à compter de la date de
+distribution de Dj au plus ancien des deux événements suivants: i) la ﬁn de la
+cinquième (5) année depuis l’émission de chaque Part Sociale de Catégorie C ou
+ii) l’annulation des Parts Sociales de catégorie C.
+
+La période de rachat générale des Parts Sociales de Catégorie C débute à
+compter de la date de leur souscription (incluant) jusqu’au cinquième (5)
+anniversaire de la souscription de la première Part Sociale de Catégorie C (la
+«Période de Rachat de Catégorie C»), étant entendu que la Société devra
+obligatoirement racheter toutes les Parts Sociales de Catégorie C avant la ﬁn de
+la Période de Rachat de Catégorie C et au moment du rachat, si ce rachat a lieu
+dans le 36ème mois suivant la souscription de la première Part Sociale de
+Catégorie C, chaque détenteur de Parts Sociales de Catégorie C peut demander
+pour telles Parts Sociales de Catégorie C à racheter, leur conversion immédiate
+en Parts Sociales de catégorie C conformément au mécanisme décrit à l’article
+6.15 ci-dessous.
+
+6.14 L’Assemblée Générale peut décider de convertir tout ou partie
+des Parts Sociales de Catégorie C en Parts Sociales de Catégorie A àla demande
+des détenteurs de telles Parts Sociales de Catégorie C. Cette requête doit être
+présentée au Conseil par le détenteur des Parts Sociales de Catégorie C concerné
+endéans la période comprise entre le 24ième et le 36ième mois à compter de la
+souscription de la première Part Sociale de Catégorie C émise par la Société
+(c'est-à-dire à compter de la date de constitution de la Société). À la demande de
+tout détenteur de Parts Sociales de Catégorie C, le Conseil de la Société sera
+contraint, si cette requête est soumise dans les délais spéciﬁés ci-dessus, de
+convoquer une Assemblée Générale aﬁn de statuer sur cette demande. Dans ce
+cas et aux ﬁns de la conversion concernée, l’évaluation préﬁnancement des Parts
+Sociales de Catégorie A existantes sera généralement ﬁxée à trois millions
+d’euros (EUR 3.000.000,-) majorée de 8% par an à compter de la souscription
+des Parts Sociales de Catégorie C en question.
+
+6.15 Les Parts Sociales de Catégorie A et les Parts Sociales de
+
+Catégorie B entraînent l'obligation, pour leurs détenteurs et lors de leur
+
+31
+
+
+souscription, de voter en faveur d'une résolution des Associés concernant la
+conversion des Parts Sociales de Catégorie C en Parts Sociales de Catégorie A
+ou en Parts Sociales de Catégorie B, le cas échéant, conformément aux articles
+6.12, 6.13 et 1.1 de présents Statuts.
+
+6.16 Dans les 90 jours suivant le 36ème mois à compter de l’émission
+de la première Part Sociale de Catégorie C émise par la Société (c’est-à-dire à
+compter de la date de constitution de la Société), le Conseil convoquera une
+Assemblée Générale pour statuer de la conversion de toutes les Parts Sociales de
+Catégorie C en circulation en Parts Sociales de Catégorie B.
+
+6.17 En cas de conversion de Parts Sociales de Catégorie C en Parts
+Sociales de Catégorie B:
+
+1. La valeur de conversion pour chaque nouvelle Part Sociale de Catégorie
+B émise sera d'un euro (EUR 1,-);
+
+II. Chacune de ces Parts Sociales de Catégorie B doit être souscrite et
+entièrement libérée, ensemble avec le paiement d’une prime d’émission
+obligatoire de neuf euros (EUR 9,-) par Part Sociale;
+
+111. La valeur du montant de conversion de chaque Part Sociale de Classe C
+sera déterminée conformément à l’article 6.13 ci-dessus;
+
+IV. Le nombre de Parts Sociales de Catégorie B devant être émises au
+moment de la conversion des Parts Sociales de Catégorie C sera arrondi à la
+décimale supérieure, en tenant compte de leur valeur nominale d’un euro (EUR
+1,-) et de leur prime d’émission obligatoire de neuf euros (EUR 9,-) par Part
+Sociale tel qu’énoncé à l’article 6.5 précités, et le montant restant résultant du
+calcul du rachat des Parts Sociales de Catégorie C décrit à l’article 6.13 précité
+sera versé en espèces à chaque Associé détenant des Parts Sociales de Catégorie
+C au moment de leur conversion en Parts Sociales de Catégorie C;
+
+V. Le montant de l’annulation pour chaque Part Sociale de Catégorie B
+nouvellement émise sera calculé conformément à l’article 6.12 ci-dessus, en
+supposant que la date de conversion correspond à la date de souscription de
+chaque Part Sociale de Catégorie B nouvellement émise;
+
+VI. La date limite pour le rachat de telles Parts Sociales de Catégorie B
+nouvellement émises demeurera la ﬁn de la Période de Rachat de Catégorie B et
+la Société devra obligatoirement racheter toutes Parts Sociales de Catégorie B
+nouvellement émises avant la ﬁn de la Période de Rachat de Catégorie B.
+
+6.18 L’Assemblée Générale peut décider d’augmenter le capital social
+de la Société par la capitalisation d’une créance liquide et exigible détenue par
+un Associé vis-à—vis de la Société et résultant d’un dividende approuvé mais non
+distribué ou d’un acompte sur dividende au titre de l’exercice ﬁscal applicable.
+
+7. Parts sociales
+
+7.1 Toutes les Parts Sociales sont et restent nominatives.
+
+32
+
+
+7.2 La propriété de toute Part Sociale implique l'acceptation des
+présents Statuts et des Résolutions des Associés.
+
+7.3 Chaque Part Sociale confère à son propriétaire une voix, sous
+réserve des limitations imposées par les lois du Grand-Duché de Luxembourg.
+
+7.4 Chaque Part Sociale de la Société est indivisible à l’égard de la
+Société. Les propriétaires indivis de Parts Sociales sont tenus de se faire
+représenter auprès de la Société par un mandataire commun. La Société a le droit
+de suspendre l'exercice de tous les droits attachés aux Parts Sociales jusqu'à ce
+qu'un mandataire commun ait été notiﬁé par les propriétaires indivis à la Société
+par écrit ou facsimilé.
+
+8. Cession de parts sociales
+
+8.1 Les Parts Sociales de la Société peuvent être librement cédées
+entre les Associés.
+
+8.2 Lorsque la Société a un Associé unique, cet Associé peut céder
+ses Parts Sociales librement.
+
+8.3 Lorsque la Société est composée de plusieurs Associés, toute
+cession de Parts Sociales à des tiers requiert l’agrément des Associés
+représentant au moins la moitié (1/2) des Parts Sociales.
+
+8.4 Si un Associé entend céder une ou plusieurs Parts Sociales à un
+tiers, l’Associé cédant doit remettre une notiﬁcation à la Société renfermant
+toutes les informations utiles du projet de cession, y compris l’identité du
+cessionnaire, le prix de cession, et, le cas échéant, les conditions applicables àla
+cession.
+
+8.5 Si le projet de cession n’est pas approuvé par les Associés
+conformément à l’article 8.3, les Associés peuvent, dans le délai de trois (3) mois
+à compter du refus de la Société, acquérir la ou les Part(s) Sociale(s), sauf accord
+contraire, ou obtenir l’acquisition de la ou des Part(s) Sociale(s) à un prix fixé
+dans les conditions prévues aux présents Statuts et dans les conditions du projet
+de cession tel que prévu à l’article 8.4 et dans les autres conditions négociées
+entre les parties, sauf si l’Associé cédant renonce à la cession de ses Parts
+Sociales. À la demande du Conseil, le délai de trois (3) mois peut être prolongée
+par le magistrat présidant la chambre du tribunal d’arrondissement de
+Luxembourg siégeant en matière commerciale et comme en matière de référé,
+étant entendu que cette prolongation ne pourra excéder six (6) mois.
+
+8.6 La Société peut dans ce même délai et avec l’agrément de
+l’Associé cédant, décider (i) de réduire son capital social d’un montant
+correspondant à la valeur nominale globale de la (des) Part(s) Sociale(s)
+concernée(s) et (ii) de racheter et annuler ces Parts Sociales à un prix déterminé
+de bonne foi entre l’Associé cédant et le Conseil. Si l’Associé cédant ne consent
+
+pas à la réduction de capital, la cession se fera alors conformément aux articles
+
+33
+
+
+8.3 et 8.5.
+
+8.7 Lorsque la Société est composée de plusieurs Associés, toute
+cession de Parts Sociales à des tiers en raison du décès d’un Associé requiert
+l’agrément des Associés représentant au moins la moitié (1/2) des Parts Sociales
+appartenant aux Associés survivants.
+
+8.8 Si à l’issue de la période mentionnée à l’article 8.5 les Parts
+Sociales n’ont été ni acquises par les Associés ni rachetées par la Société,
+l’Associé cédant pourra vendre ses Parts Sociales librement au nouvel ou aux
+nouveaux Associés envisagés au prix et aux conditions de cession qui ont été
+notiﬁés àla Société.
+
+8.9 Toute cession de Parts Sociales doit être formalisée par un acte
+notarié ou sous seing privé. Une telle cession de Parts Sociales n'est opposable à
+la Société et aux tiers qu’après qu'elle ait été notiﬁée àla Société ou acceptée par
+elle conformément au droit luxembourgeois applicable en matière de cession de
+créances, notamment à l'article 1690 du Code civil luxembourgeois.
+
+9. Augmentation du capital social
+
+Le capital social de la Société pourra être augmenté une ou plusieurs fois
+par les Associés conformément aux présents Statuts et aux lois du Grand-Duché
+de Luxembourg applicables à toute modiﬁcation des Statuts, sous réserve que:
+
+(i) toute augmentation de capital social (a) soit effectuée
+proportionnellement entre les Parts Sociales émises au sein de chaque Catégorie
+de Parts Sociales restantes et (b) ait pour conséquence que chaque Associé
+détienne une part proportionnelle de Parts Sociales dans chaque Catégorie de
+Parts Sociales restante de la Société;
+
+(ii) toute division d’une Catégorie de Parts Sociales en de nouvelles
+catégories de Parts Sociales implique que chaque Associé de l’ancienne
+Catégorie de Parts Sociales avant la division détienne une part proportionnelle
+de chaque nouvelle catégorie de Parts Sociales résultant de la division; et
+
+(iii) toute combinaison ou regroupement de Catégories de Parts
+Sociales en une nouvelle catégorie de Parts Sociales implique que chaque associé
+des anciennes Catégories de Parts Sociales détienne une part proportionnelle de
+la nouvelle Catégorie de Parts Sociales combinée.
+
+GÉRANCE, COMMISSAIRE AUX COMPTES
+
+10. Gérants
+
+10.1 La Société est gérée par un ou plusieurs gérants, associés ou non
+(individuellement le << Gérant >> ensemble les << Gérants >>).
+
+10.2 Les Gérants sont nommés par les Associés, qui ﬁxent (i) leur
+nombre, (ii) leur rémunération et (iii) le caractère limité ou illimité de leur
+mandat.
+
+10.3 Les Gérants exercent leurs fonctions jusqu'à ce que leurs
+
+34
+
+
+successeurs soient nommés. Ils peuvent être renommés et révoqués à tout
+moment par les Associés, avec ou sans motif.
+
+10.4 Les Associés peuvent décider de qualiﬁer les Gérants nommés de
+Gérant de catégorie A et de Gérant de catégorie B, respectivement.
+
+10.5 Même après le terme de leur mandat, les Gérants ne divulgueront
+pas les informations conﬁdentielles de la Société ou toute information
+concernant la Société dont la divulgation pourrait porter préjudice aux intérêts
+de la Société, excepté lorsqu'une telle divulgation est requise par la loi.
+
+10.6 Le Gérant unique ou, selon le cas, le Conseil peut déléguer ses
+pouvoirs de gestion journalière des affaires de la Société et de représentation de
+la Société, en ce qui concerne cette gestion, à n’importe quel Gérant ou à toute
+autre personne, Associé ou non, agissant seul ou conjointement, selon des
+modalités que le Gérant unique ou, selon le cas, le Conseil, déterminera. La
+révocation de leur nomination et leurs pouvoirs sont déterminés soit par les
+présents Statuts soit par une décision du Conseil.
+
+11. Conseil de Gérance
+
+11.1 Si plus d'un Gérant a été nommé, les Gérants constitueront un
+Conseil.
+
+11.2 Le Conseil peut choisir parmi ses membres un président (le
+<< Président du Conseil >>).
+
+12. Pouvoirs du Conseil
+
+12.1 Le Conseil est investi des pouvoirs les plus étendus pour agir au
+nom de la Société et autoriser tous les actes que le Conseil estimera, à sa seule
+discrétion, nécessaires ou utiles pour la réalisation de l'objet social de la Société.
+Tous les pouvoirs qui ne sont pas expressément réservés par les lois du Grand-
+Duché de Luxembourg ou par les présents Statuts aux Associés sont de la
+compétence du Conseil.
+
+12.2 Le Conseil peut aussi créer un ou plusieurs comité(s) et
+déterminer sa/leur composition et ses/leurs pouvoirs et leur déléguer certains
+pouvoirs et/ou mandats spéciaux.
+
+12.3 Le Conseil peut conférer certains pouvoirs ou mandats spéciaux
+à un ou plusieurs Gérants, Associés ou tiers, pour agir au nom de la Société et
+engager la Société vis-à-vis des tiers, chacun agissant seul ou conjointement
+selon ce qui aura été déterminé par le Conseil.
+
+12.4 En cas de Gérant unique, le Gérant unique est investi de tous les
+pouvoirs conférés au Conseil par les présents Statuts, notamment des pouvoirs
+ci-avant énumérés par cet article 12.
+
+13. Réunions du Conseil et résolutions circulaires
+
+13.1 Le Conseil se réunira àla demande de tout Gérant et, lorsqu’il est
+
+composé de Gérants de catégorie A et de Gérants de catégorie B, par au moins
+
+35
+
+
+un Gérant de chaque catégorie.
+
+13.2 Le Président du Conseil, ou tout Gérant ou représentant autorisé
+dans le cas où un Président du Conseil n’aurait pas été nommé, indiquera aux
+autres Gérants le lieu, la date, l'heure et l'ordre du jour de la réunion par avis écrit
+ou par email. Aucune convocation spéciale ne sera requise pour les réunions se
+tenant en des lieux, dates et heures spéciﬁés dans un calendrier préalablement
+adopté par le Conseil et en cas d'urgence.
+
+13.3 II pourra être passé outre la convocation mentionnée ci-dessus
+avec l'accord écrit du/des Gérant(s) concerné(s) ou le consentement écrit
+unanime de tous les Gérants donné àla réunion du Conseil concernée.
+
+13.4 Lors de chaque réunion du Conseil, ce dernier désignera le
+président de ladite réunion àla majorité des Gérants présents ou représentés lors
+de cette réunion.
+
+13.5 Le Conseil pourra également nommer un secrétaire, Gérant ou
+non, qui sera responsable de la tenue du procès-verbal de la réunion.
+
+13.6 Les Gérants pourront participer et se faire représenter aux
+réunions du Conseil en désignant par écrit un autre Gérant comme son
+mandataire.
+
+13.7 Les Gérants peuvent participer et exprimer leur voix à une
+réunion du Conseil par conférence téléphonique, par vidéoconférence ou par tout
+moyen de télécommunication similaire permettant à plusieurs personnes
+participant à cette réunion de communiquer l'une avec l'autre. Ces participations
+doivent être considérées comme équivalentes à une présence physique à la
+réunion, qui est réputée être tenue au siège social de la Société.
+
+13.8 Un quorum du Conseil est atteint par la présence ou la
+représentation d’une majorité des Gérants en fonction, à condition, le cas
+échéant, qu’au moins un Gérant de catégorie A et un Gérant de catégorie B soient
+présents. Les décisions seront prises àla majorité des votes des Gérants présents
+ou représentés àla réunion concernée et cette majorité devra au moins, selon le
+cas, inclure un Gérant de catégorie A et un Gérant de catégorie B. En cas de
+parité des votes, le Président du Conseil n’a pas de voix prépondérante.
+
+13.9 Les procès-verbaux des réunions du Conseil doivent être établis
+par écrit et signés par tous les Gérants présents ou représentés à la réunion
+concernée. Toutes les procurations y seront annexées.
+
+13.10 Une décision écrite par voie circulaire signée par tous les Gérants
+est régulière et valable comme si elle avait été adoptée à une réunion du Conseil
+dûment convoquée et tenue au siège social de la Société. Une telle décision
+pourra être documentée soit par un seul écrit signé par tous les Gérants soit par
+plusieurs écrits séparés ayant tous le même contenu et signés chacun par un ou
+
+plusieurs Gérants.
+
+36
+
+
+13.11 Lorsqu'un seul Gérant a été nommé, ce Gérant est investi des
+pouvoirs les plus étendus pour agir pour le compte de et engager valablement la
+Société sans avoir à établir des décisions écrites ou des procès-verbaux des
+décisions du Gérant unique.
+
+13.12 Les copies ou extraits des procès-verbaux du Conseil seront
+certiﬁés par le Conseil.
+
+14. Représentation de la Société
+
+14.1 Lorsqu'un seul Gérant a été nommé, la Société sera engagée vis-
+à—vis des tiers par la signature individuelle de ce Gérant ainsi que par la signature
+conjointe ou individuelle de toute personne à qui des pouvoirs valides de
+représentation ont été délégués par ce Gérant, dans les limites de ce pouvoir.
+
+14.2 Lorsque la Société est gérée par un Conseil, la Société sera
+engagée vis-à-vis des tiers par la signature conjointe de deux Gérants ainsi que
+par la signature conjointe ou individuelle de toute personne à qui des pouvoirs
+valides de représentation ont été délégués par le Conseil, dans les limites de ce
+pouvoir.
+
+14.3 Nonobstant ce qui précède, la Société sera engagée vis-à—vis des
+tiers uniquement par les signatures conjointes d’un gérant de catégorie A et un
+gérant de catégorie B si l'Associé unique ou les Associés (selon le cas) ont
+qualifié les Gérants de gérants de catégorie A et gérants de catégorie B, ainsi que
+par la signature conjointe ou individuelle de toute personne à qui des pouvoirs
+
+valides de représentation ont été délégués par le Conseil, dans les limites de ce
+
+pouvoir.
+15. Conflit d'intérêts
+15.1 Sous réserve de ce qui suit, les règles du conﬂit d’intérêts telles
+
+qu’énoncées à l’article 441-7 de la Loi s’appliqueront.
+
+15.2 Aucun contrat ou aucune autre transaction entre la Société et une
+société tierce ne sera affecté ou invalidé du seul fait qu'un ou plusieurs
+représentant(s) valablement autorisé(s) de la Société, y inclus notamment tout
+Gérant, (i) a(ont) un intérêt ﬁnancier direct ou indirect entrant en conﬂit avec les
+intérêts de la Société ou (ii) est(sont) un(des) représentant(s) valablement
+autorisé(s) et/ou associé(s) de telle société tierce (le << Représentant en
+Conﬂit >>).
+
+15.3 Sauf stipulation contraire prévue ci-après, le Représentant en
+Conﬂit ne sera pas automatiquement empêché de participer aux délibérations ou
+de voter sur la transaction, le contrat ou toute autre opération concerné. Pour tous
+les contrats ou autres opérations (i) ne relevant pas de la gestion journalière des
+affaires de la Société, (ii) qui ne sont pas conclus dans le cours normal des
+affaires de la Société et (iii) qui ne sont pas conclus selon le principe de pleine
+
+concurrence, le Représentant en Conﬂit devra informer le Conseil de cet intérêt
+
+37
+
+
+personnel et s’interdira de délibérer ou de voter sur ladite transaction ou
+opération, et les Associés devront être notiﬁés de cette transaction ou opération
+et de l’intérêt du Représentant en Conﬂit dans ladite transaction ou opération.
+Si, en raison de conﬂits d’intérêts dans une transaction, un contrat ou toute autre
+opération spéciﬁque, les exigences prévues à l’article 13.8 des présents Statuts
+aﬁn de délibérer et de voter sur cette transaction, ce contrat ou de toute autre
+opération ne sont pas respectées, le Conseil peut décider de soumettre la décision
+relative à cette transaction, ce contrat ou autre opération à l’approbation de
+l’Assemblée Générale.
+
+15.4 Si le Représentant en Conﬂit est le Gérant unique, le contrat ou
+autre transaction concerné (i) qui n’est pas conclu dans le cours normal des
+affaires de la Société et (ii) qui n’est pas conclu selon le principe de pleine
+concurrence devra être approuvé par l’Assemblée Générale ou l’Associé unique
+(selon le cas).
+
+15.5 Le(s) délégué(s) àla gestion journalière de la Société sont, le cas
+échéant, soumis mutatis mutandis aux articles 15.2 à 15.4 des présents Statuts.
+Si un seul (1) délégué à la gestion journalière a été nommé et devient un
+Représentant en Conﬂit, la décision concernée doit être adoptée par le Conseil.
+Si, en raison de conﬂits d’intérêts dans une transaction, un contrat ou toute autre
+opération spéciﬁque, les exigences prévues à l’article 13.8 des présents Statuts
+aux ﬁns de délibérer et de voter sur cette transaction, ce contrat ou toute autre
+opération ne sont pas respectées, le(s) délégué(s) à la gestion journalière
+peut(peuvent) décider de soumettre la décision relative à cette transaction, ce
+contrat ou autre opération à l’approbation du Conseil.
+
+16. Indemnisation des Gérants
+
+16.1 La Société indemnisera son (ses) Gérant(s) et, le cas échéant, ses
+(leurs) héritiers, exécuteurs et administrateurs testamentaires, des dommages et
+des dépenses raisonnables faites par celui/ceuX-ci en relation avec toute action,
+procès ou procédure à laquelle il(ils) a(ont) pu être partie en raison de sa(leur)
+fonction passée ou actuelle de Gérant(s) de la Société ou, à la demande de la
+Société, de toute autre société dans laquelle la Société est associée ou créancière,
+si et dans la mesure où il(ils) n'est(ne sont) pas autorisé(s) à être indemnisé(s)
+par cette autre société.
+
+16.2 L'indemnisation sera due uniquement si le(les) Gérant(s) n’est(ne
+sont) pas condamné(s) lors d'une action, un procès ou une procédure pour
+négligence ou faute grave.
+
+16.3 En cas de règlement amiable d'un conﬂit, des indemnités seront
+accordées uniquement si et dans la mesure où la Société a reçu confirmation par
+son conseiller juridique que le(les) Gérant(s) n'a(ont) pas commis de violation à
+
+ses(leurs) devoirs.
+
+38
+
+
+16.4 Le droit d'indemnisation ci-avant évoqué n'exclut pas les autres
+droits que le(les) Gérant(s) concerné(s) ou, le cas échéant, ses(leurs) héritiers,
+exécuteurs et administrateurs testamentaires, pourraient revendiquer.
+
+17. Commissaire aux comptes
+
+17.1 Si aucun réviseur d’entreprise agréé n'est requis par les lois du
+Grand-Duché de Luxembourg et que la Société compte plus de soixante (60)
+Associés, les comptes annuels de la Société seront audités par un ou plusieurs
+commissaire(s) aux comptes, Associé(s) ou non.
+
+17.2 Si aucun réviseur d’entreprise agréé n'est requis par les lois du
+Grand-Duché de Luxembourg et que la Société compte soixante (60) Associés
+ou moins, les Associés pourront, sans en être obligés, faire auditer les comptes
+annuels par un ou plusieurs commissaire(s) aux comptes, Associé(s) ou non.
+
+17.3 Le(s) commissaire(s) aux comptes sera(seront) nommé(s) par les
+Associés qui détermineront (i) leur nombre, (ii) leur rémunération et (iii) la durée
+de leur mandat. Le(s) commissaire(s) aux comptes restera(ont) en fonction
+jusqu’à ce que son(leurs) successeur(s) soit(soient) élus. Ils sont rééligibles et
+peuvent être révoqués à tout moment, avec ou sans motif, par les Associés.
+
+ASSOCIÉS
+
+18. Résolutions des Associés
+
+18.1 Les Associés prennent leurs décisions en adoptant des résolutions
+soit en Assemblées Générales soit, sous réserve des limitations prévues par les
+présents Statuts et par les lois du Grand-Duché de Luxembourg, par résolutions
+écrites (les << Resolutions des Associés >>).
+
+18.2 Toute modiﬁcation des Statuts (y compris le changement de
+nationalité) devra être approuvée par une majorité d’Associés représentant les
+trois-quarts (3/4) du capital social émis, sauf disposition contraire prévue par les
+lois du Grand-Duché de Luxembourg ou par les présents Statuts.
+
+18.3 Toutes autres Résolutions des Associés seront adoptées par les
+Associés représentant plus de la moitié du capital social émis de la Société, sauf
+disposition contraire prévue par les lois du Grand-Duché de Luxembourg ou par
+les présents Statuts. Dans le cas où le quorum ne serait pas atteint lors de la
+première réunion, les Associés seront convoqués ou consultés une seconde fois,
+par lettre recommandée, et les décisions seront adoptées par une majorité des
+voix exprimées, indépendamment de la part du capital social émis représenté.
+
+18.4 Le Conseil pourra suspendre les droits de vote de tout Associé en
+violation de ses obligations découlant des présents Statuts et/ou de tous autres
+arrangements contractuels conclus par cet Associé.
+
+18.5 Un Associé pourra décider individuellement de ne pas exercer,
+de manière provisoire ou permanente, tout ou partie de ses droits de vote.
+
+L’Associé qui renonce à cet exercice est lié par cette renonciation qui deviendra
+
+39
+
+
+obligatoire pour la Société sur notiﬁcation de cette dernière.
+
+18.6 En cas de suspension des droits de vote d’un ou de plusieurs
+Associés conformément à l’article 18.4 des présentes ou en cas de renonciation
+d’un ou plusieurs Associés à ses droits de vote conformément à l’article 18.6 des
+présentes, ces Associés peuvent participer à toute Assemblée Générale mais, les
+Parts Sociales qu’ils détiennent ne sont pas prises en compte pour la
+détermination des conditions du quorum et de la majorité à respecter à
+l’Assemblée Générale.
+
+19. Résolutions écrites
+
+19.1 Si la Société compte soixante (60) Associés ou moins, les
+Résolutions des Associés ne devront pas nécessairement être adoptées lors des
+Assemblées Générales mais pourront également être adoptées par voix
+circulaire.
+
+19.2 Les résolutions à adopter par voix circulaire seront envoyées aux
+Associés par écrit par le Conseil par courrier recommandé, lettre, e-mail ou
+facsimilé. Les Associés ont l'obligation de voter et de renvoyer leur bulletin de
+vote au Conseil par courrier recommandé, lettre, e-mail ou facsimilé endéans
+quinze (15) jours à compter de la réception de la lettre. Tous les votes non émis
+à l’issue de ce délai seront considérés comme une abstention de vote.
+
+19.3 11 est possible de déroger aux exigences énoncées à l’article 14.2
+des Statuts relatives à l'adoption de Résolutions des Associés par décision écrite
+unanime de tous les Associés dans la résolution écrite concernée ou par tout autre
+moyen.
+
+19.4 Les exigences énoncées à l’article 14.2 des Statuts relatives à
+l'adoption de Résolutions des Associés ne s'appliqueront pas si la Société ne
+compte qu'un Associé. Toutes les résolutions adoptées par un Associé unique
+devront, en revanche, être documentées par écrit et signées par l'Associé unique.
+
+19.5 Toutes les copies ou tous les extraits des Résolutions des
+Associés devront être certiﬁés par le Conseil.
+
+20. Assemblées Générales
+
+20.1 11 sera nécessaire de tenir une Assemblée Générale uniquement si
+la Société compte plus de soixante (60) Associés. Dans ce cas, ladite Assemblée
+Générale doit être tenue dans les six (6) mois de la ﬁn de chaque exercice social
+au siège de la Société ou à tout autre lieu au Grand-Duché de Luxembourg
+indiqué dans la convocation à l’assemblée.
+
+20.2 Les Assemblées Générales extraordinaires sont convoquées
+conformément aux lois du Grand-Duché de Luxembourg par notiﬁcation du
+Conseil, du(des) commissaire(s) aux comptes de la Société ou de l’/des
+Associé(s) représentant au moins la moitié (1/2) du capital social émis de la
+
+Société (selon le cas).
+
+40
+
+
+20.3 Une Assemblée Générale pourra uniquement être tenue à
+l'étranger si, de l’avis du Conseil, cela est nécessaire du fait de circonstances de
+force maj eure.
+
+20.4 L'avis convoquant l'Assemblée Générale indiquera le lieu, la
+date, l’heure et l’ordre du jour de l’assemblée et sera envoyé au moins huit (8)
+jours avant l'assemblée. II pourra être passé outre la convocation mentionnée ci-
+dessus par l'accord écrit du/des Associé(s) concerné(s) ou le consentement écrit
+unanime de tous les Associés lors de l’assemblée concernée.
+
+20.5 Toute Assemblée Générale dûment constituée représente tous les
+Associés de la Société.
+
+20.6 Si la Société ne compte qu'un Associé unique, cet Associé unique
+exerce les pouvoirs accordés à l'Assemblée Générale par la loi applicable et les
+présents Statuts. Les articles 710-18 à 710-22 et 710-26 de la Loi ne
+s'appliquent pas à ce cas de ﬁgure.
+
+21. Procédure lors des Assemblées Générales
+
+21.1 Un Associé peut participer à une Assemblée Générale en
+désignant par écrit ou facsimilé un représentant, lequel ne doit pas
+nécessairement être Associé.
+
+21.2 Les Associés peuvent participer à une Assemblée Générale par
+conférence téléphonique, visioconférence ou par tout autre moyen de
+communication similaire permettant aux participants de communiquer entre eux.
+Cette participation équivaut à une présence physique à l’assemblée concernée.
+
+21.3 Le Conseil peut déterminer toutes les autres conditions qui
+doivent être remplies pour participer à une Assemblée Générale.
+
+21.4 Lors de chaque assemblée des Associés, les Associés nommeront
+le président de l’assemblée par un vote de la majorité des Associés présents ou
+représentés lors de cette assemblée (le << Président de l'Assemblée Générale >>).
+
+21.5 Le Président de l'Assemblée Générale désignera un secrétaire.
+Les Associés désigneront un ou plusieurs scrutateur(s). Le Président de
+l'Assemblée Générale conjointement avec le secrétaire et le(s) scrutateur(s)
+formeront le bureau de l'Assemblée Générale (le << Bureau >>).
+
+21.6 Une liste de présence indiquant (i) le nom des Associés, (ii) le
+nombre de Parts Sociales qu'ils détiennent et, le cas échéant, (iii) le nom du
+représentant, sera rédigée et signée par les membres du Bureau.
+
+21.7 Les procès-verbaux des décisions de l'Assemblée Générale seront
+rédigés et signés par le Bureau.
+
+21.8 Les copies ou extraits des procès-verbaux de l'Assemblée
+Générale seront certiﬁés par le Conseil.
+
+22. Droit d’information
+
+Un ou plusieurs Associé(s) détenant ensemble au moins dix pour cent (10
+
+41
+
+
+%) du capital social ou des droits de vote de la Société pourront soumettre au
+Conseil par écrit toute question relatives à des opérations en lien avec la gérance
+de la Société et des sociétés contrôlées par la Société; concernant ces dernières,
+ces questions seront examinées en tenant compte des intérêts sociaux des entités
+concernées. En l’absence de réponse dans un délai d’un (1) mois, l’/les
+Associé(s) concerné(s) pourra/pourront demander au magistrat présidant la
+chambre du tribunal d’arrondissement de Luxembourg siégeant en matière
+commerciale comme en matière de référé, de nommer un ou plusieurs experts
+chargés de présenter un rapport sur les opérations concernées visées dans la/les
+question(s) écrite(s).
+EXERCICE SOCIAL, DISTRIBUTIONS DES GAINS
+
+23. Exercice social
+
+L’exercice social de la Société commence le premier jour du mois de
+janvier et ﬁnit le dernier jour du mois de décembre.
+
+24. Approbation des comptes annuels
+
+24.1 À la ﬁn de chaque exercice social, les comptes sont arrêtés et le
+Conseil établit les comptes annuels de la Société conformément aux lois du
+Grand-Duché de Luxembourg.
+
+24.2 Le Conseil soumettra les comptes annuels de la Société au(x)
+commissaire(s) aux comptes, le cas échéant, pour revue et aux Associés pour
+approbation.
+
+24.3 Tout Associé peut prendre connaissance des comptes annuels au
+siège social de la Société tel que prévu par les lois du Grand-Duché de
+Luxembourg.
+
+25. Affectation des bénéﬁces
+
+25.1 Il est prélevé sur le bénéﬁce net annuel de la Société 5% (cinq
+pour cent) qui sont affectés à la réserve légale (la << Réserve Légale >>). Ce
+prélèvement cessera d'être obligatoire lorsque la Réserve Légale aura atteint 10%
+(dix pour cent) du capital social de la Société, et il deviendra à nouveau
+obligatoire si la Réserve Légale descend en dessous du seuil de 10% (dix pour
+cent) du capital social de la Société.
+
+25.2 Après l’allocation à la Réserve Légale, les Associés
+détermineront l’affectation de l’excédent du bénéﬁce net annuel. Ils peuvent
+décider d’allouer tout ou partie de l’excédent à une réserve ou à une provision,
+de le reporter à l’année ﬁnancière suivante ou de le distribuer, ensemble avec les
+bénéﬁces reportés d’années ﬁnancières précédentes, les réserves distribuables
+ou la prime d’émissions, aux Associés en tant que dividende
+
+25.3 Pour chaque année où les Associés décident de distribuer un
+dividende tiré des bénéﬁces nets, de la réserve comptable et des réserves
+
+disponibles, en ce compris toute prime d’émission, le montant alloué à cet effet
+
+42
+
+
+sera distribué dans l’ordre suivant de priorité :
+
+(a) les détenteurs de Parts Sociales de Catégorie A auront droit à la
+distribution d'un dividende préférentiel en lien avec ladite année d'un montant
+de dix pour cent (10%) de la valeur nominale des Parts Sociales de Catégorie A
+qu’ils détiennent ; ensuite
+
+(b) les détenteurs de Parts Sociales de Catégorie B auront droit à la
+distribution d'un dividende préférentiel en lien avec ladite année d'un montant
+de un pour cent (1%) de la valeur nominale des Parts Sociales de Catégorie B
+qu’ils détiennent; ensuite
+
+(c) les détenteurs de Parts Sociales de Catégorie C auront droit à la
+distribution d'un dividende préférentiel en lien avec ladite année d'un montant
+de deux pour cent (2%) de la valeur nominale des Parts Sociales de Catégorie C
+qu’ils détiennent.
+
+25.4 Les détenteurs de la Catégorie de Parts Sociales qui peut être
+rachetée et annulée au moment d’une distribution de dividende donnée
+conformément à ces Statuts aura le droit de recevoir le restant de toute
+distribution de dividende appropriée.
+
+26. Dividendes intérimaires
+
+26.1 Le Conseil est autorisé à verser des dividendes intérimaires sur la
+base de comptes intérimaires actuels et à condition que ces comptes intérimaires
+montrent que la Société ait sufﬁsamment de fonds disponibles pour une telle
+distribution, conformément aux conditions énoncées à l’article 710-25 de la Loi.
+
+DISSOLUTION, LIQUIDATION
+
+27. Dissolution et liquidation
+
+27.1 La Société peut être dissoute par une décision des Associés
+délibérant aux mêmes conditions de quorum et de majorité que celles exigées
+pour la modiﬁcation des Statuts, sauf disposition contraire des lois du Grand-
+Duché de Luxembourg.
+
+27.2 En cas de dissolution de la Société, la liquidation s’effectuera par
+les soins d’un ou de plusieurs liquidateur(s) nommé(s) par les Associés qui
+détermineront leurs pouvoirs et leur rémunération.
+
+27.3 Après paiement de toutes les dettes et charges de la Société, y
+inclus les taxes et frais de liquidation, l’actif net de la Société sera réparti
+équitablement entre tous les Associés au prorata du nombre de Parts Sociales
+qu’ils détiennent.
+
+L01 APPLICABLE
+28. Loi applicable
+Toutes les matières qui ne sont pas régies par les présents Statuts seront
+
+réglées conformément aux dispositions applicables du droit luxembourgeois.
+SOUSCRIPTION - LIBERATION
+
+43
+
+
+La Partie Comparante, représentée par le Mandataire, déclare souscrire à
+
+l’intégralité du capital social comme suit :
+
+Nombre de parts sociales souscrites
+Tan Holdings, s.r.l., prénommé 60.000 parts sociales de catégorie A
+
+ 
+
+Tan 2.0 LP, prénommé 300.000 parts sociales de catégorie B
+100.000 parts sociales de catégorie C
+
+Toutes les parts sociales émises par la Société ont été libérées par un apport
+
+en numéraire d’un montant de quatre cent soixante mille euros (EUR 460.000,-
+
+) de sorte à ce que le capital social émis et souscrit de la Société d’un montant
+
+de quatre cent soixante mille euros (EUR 460.000,-) est maintenant à la
+
+disposition de la Société, preuve de laquelle a été apportée au notaire soussigné.
+DISPOSITION TRAN SITOIRE
+
+Le premier exercice social commence à la date de la constitution de la
+Société et se termine le 31 décembre 2019.
+
+ASSEMBLEE GENERALE EXTRAORDINAIRE
+
+Les Parties Comparantes, représentées par le Mandataire, en leur capacité
+d’associés de la Société, ont adopté les résolutions suivantes :
+
+A. La Société sera représentée par deux gérants (les << Gérants >>) ;
+
+B. Les personnes suivantes sont nommées en tant que Gérants pour une
+durée illimitée :
+
+1. Mme. Franca SORGI, résidant à 4, rue Antoine-François Van der
+Meulen, L-2152 Luxembourg ; Grand-Duché de Luxembourg ; et
+
+2. Mr. Filippo GIOVANNINI, résidant à Via Paleocapa 4, 20121 Milan,
+Italie.
+
+C. Mme. Franca SORGI, résidant à 4, rue Antoine-François Van der
+Meulen, L-2152 Luxembourg ; Grand-Duché de Luxembourg a été désigné
+comme délégué àla gestion journalière.
+
+D. Le siège social de la Société est situé sis 75, Parc d’Activités, L-8308
+Capellen, Grand-Duché de Luxembourg.
+
+DEPENSES
+
+Le montant des frais, dépenses, rémunérations ou charges, sous quelque
+forme que ce soit qui incombent à la Société ou qui ont mis à sa charge en raison
+des présentes, sont estimés à deux mille euros (EUR 2.000,-).
+
+DECLARATION
+
+Le notaire soussigné qui comprend et parle anglais, déclare qu’à la requête
+de la personne comparante, le présent acte est rédigé en anglais suivi d’une
+version française et qu’en cas de divergence entre le texte anglais et le texte
+français, la version anglaise fera foi.
+
+D O N T A C T E
+
+Fait et passé à J unglinster date qu'en tête des présentes.
+
+44
+
+
+Et après lecture faite et interprétation donnée au mandataire de la partie
+comparante, connu du notaire par nom, prénom usuel, état et demeure, il a signé
+
+avec Nous notaire le présent acte.
+(s): Henri DA CRUZ, Jean SECKLER
+
+Enregistré à Grevenmacher Actes Civils, 1e 21 décembre 2018.
+Relation GAG/201 8/ 1 045 6.
+
+Reçu soixante-quinze euros
+75,00 € Le Receveur, (s.): G. SCHLINK
+
+45
+
+
