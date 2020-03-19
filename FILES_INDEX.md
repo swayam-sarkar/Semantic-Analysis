@@ -1,7 +1,7 @@
 ### Folders:
 1. design: Contains images used in the documentation
 2. input_files: Contains 75 text files from the entire sample of 635 files used originally
-3. Visualization: Contains a .gephi and a .twb file for Gephi & Tableau inputs
+3. visualization: Contains a .gephi and a .twb file for Gephi & Tableau inputs
 
 ### Files:
 1. README.md: Project overview & design
